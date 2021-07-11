@@ -56,6 +56,10 @@ Don’t ignore the possibility of catastrophic loss — protect yourself. Consid
 
 &nbsp;
 
+[Click here for the next section — Building a stock portfolio](https://github.com/investindex/Portfolio)
+
+&nbsp;
+
 &nbsp;
 
 &nbsp;
