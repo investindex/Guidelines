@@ -58,6 +58,8 @@ Don’t ignore the possibility of catastrophic loss — protect yourself. Consid
 
 &nbsp;
 
+&nbsp;
+
 ## Retirement math
 
 A few methods of retirement calculation are worth reviewing here. First, a simple matter of computing average return. If over three years our investments provide annual returns of 7%, 15.5%, and -2%, what is the average annual return? We must convert these percentage changes to multipliers: 1.07, 1.155, and .98. The geometric mean is calculated as (1.07×1.155×.98)^(1/3) = 1.0659, a 6.59% average annual return. See this footnote for why it must be calculated that way.<sup id="fn4">[4](#f4)</sup>
