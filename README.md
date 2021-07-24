@@ -102,7 +102,7 @@ Footnotes:
 
 <sup id="f5"> 5 </sup> You can [click here](https://www.wolframalpha.com/input/?i=ReplaceAll%5BD*%28100%2FW%29*B%5ET+%2F+%28R%5ET+*+Sum%5B%28B%2FR%29%5EY%2C+%7BY%2C+0%2C+T-1%7D%5D%29%2C+%7BR+-%3E+1.09%2C+B+-%3E+1.025%2C+T+-%3E+40%2C+D+-%3E+45000%2C+W+-%3E+3%7D%5D) to use a formula I set up in WolframAlpha. There are six variables. Five were already discussed: R for average real return, T for time horizon, D for desired retirement income in today's dollars, W for withdrawal rate, and G for inflation-adjusted growth of savings. G is introduced in the second approach to saving for retirement; to use the flat approach, set G equal to 1. The sixth variable is A, savings which already exist. The examples above assume no savings are set aside for retirement yet, but we can easily add this to the equation. R is the nominal return rate divided by inflation rate, 1.09/1.025 in the example above. To see how the equation is derived, click here. [↩](#fn5)
 
-<sup id="f6"> 6 </sup> The WolframAlpha calculator for calculating retirement income based on savings is [here](https://www.wolframalpha.com/input/?i=ReplaceAll%5B%28W*R%5ET%2F100%29*%28A%2BS*Sum%5B%28G%2FR%29%5EY%2C+%7BY%2C+0%2C+T-1%7D%5D%29%2C+%7BS+-%3E+6453.1%2C+G+-%3E+1.02%2C+R+-%3E+1.09%2F1.025%2C+T+-%3E+40%2C+W+-%3E+3%2C+A+-%3E+0%7D%5D). If a flat approach is desired, set G equal to 1 to effectively remove it. [↩](#fn6)
+<sup id="f6"> 6 </sup> The WolframAlpha calculator for calculating retirement income based on savings is [here](https://www.wolframalpha.com/input/?i=ReplaceAll%5B%28W*R%5ET%2F100%29*%28A%2BS*Sum%5B%28G%2FR%29%5EY%2C+%7BY%2C+0%2C+T-1%7D%5D%29%2C+%7BS+-%3E+6453.1%2C+R+-%3E+1.09%2F1.025%2C+G+-%3E+1.02%2C+T+-%3E+40%2C+W+-%3E+3%2C+A+-%3E+0%7D%5D). If a flat approach is desired, set G equal to 1 to effectively remove it. [↩](#fn6)
 
 &nbsp;
 
@@ -112,4 +112,4 @@ ReplaceAll[(D\*100/(W\*R^T)-A) / Sum[(G/R)^Y, {Y, 0, T-1}], {R -> 1.09/1.025, G 
 
 And to calculate retirement income from savings:
 
-ReplaceAll[(W\*R^T/100)\*(A+S\*Sum[(G/R)^Y, {Y, 0, T-1}]), {S -> 6453.1, G -> 1.02, R -> 1.09/1.025, T -> 40, W -> 3, A -> 0}]
+ReplaceAll[(W\*R^T/100)\*(A+S\*Sum[(G/R)^Y, {Y, 0, T-1}]), {S -> 6453.1, R -> 1.09/1.025, G -> 1.02, T -> 40, W -> 3, A -> 0}]
