@@ -106,6 +106,8 @@ The nasty part of this equation is Z. It can be tamed by reframing its parts. Th
 
 <sup id="f6"> 6 </sup> The WolframAlpha calculator for the growth approach is [here](https://www.wolframalpha.com/input/?i=ReplaceAll%5BD*%28100%2FW%29*B%5ET+%2F+%28R%5ET+*+Sum%5B%28G*B%2FR%29%5EY%2C+%7BY%2C+0%2C+T-1%7D%5D%29%2C+%7BG+-%3E+1.02%2C+R+-%3E+1.09%2C+B+-%3E+1.025%2C+T+-%3E+40%2C+D+-%3E+45000%2C+W+-%3E+3%7D%5D). An additional variable, G, denotes the target growth in savings beyond inflation. When deriving this modified equation, the only affected part was the notorious Z (see footnote 5). Since every term after the first needs to be multiplied by G, (B/R)^Y is changed to (G×B/R)^Y. The numerator is the same because the final nest egg amount does not change. [↩](#fn6)
 
+&nbsp;
+
 The WolframAlpha formula for the flat approach is:
 
 ReplaceAll[D\*(100/W)\*B^T / (R^T \* Sum[(B/R)^Y, {Y, 0, T-1}]), {R -> 1.09, B -> 1.025, T -> 40, D -> 45000, W -> 3}]
