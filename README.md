@@ -105,3 +105,11 @@ How is this equation derived? I think the most intuitive way of understanding it
 The nasty part of this equation is Z. It can be tamed by reframing its parts. The first term is easy: R^40. The second term is B×R^39, but it _could_ be expressed as R^40×(B/R). This may seem pointless, but we can define the third term as R^40×(B/R)^2, and the fourth term as R^40×(B/R)^3. Now instead of two exponents that sum to T=40, we have a single exponent that increases from 0 to 39, or more generally 0 to T-1. Z can be understood as R^T multiplied by the sum of (B/R)^Y from Y=0 to Y=T-1. The equation is now well-defined enough to implement, as it was in the [WolframAlpha calculator](https://www.wolframalpha.com/input/?i=ReplaceAll%5BD*%28100%2FW%29*B%5ET+%2F+%28R%5ET+*+Sum%5B%28B%2FR%29%5EY%2C+%7BY%2C+0%2C+T-1%7D%5D%29%2C+%7BR+-%3E+1.09%2C+B+-%3E+1.025%2C+T+-%3E+40%2C+D+-%3E+45000%2C+W+-%3E+3%7D%5D). [↩](#fn5)
 
 <sup id="f6"> 6 </sup> The WolframAlpha calculator for the growth approach is [here](https://www.wolframalpha.com/input/?i=ReplaceAll%5BD*%28100%2FW%29*B%5ET+%2F+%28R%5ET+*+Sum%5B%28G*B%2FR%29%5EY%2C+%7BY%2C+0%2C+T-1%7D%5D%29%2C+%7BG+-%3E+1.02%2C+R+-%3E+1.09%2C+B+-%3E+1.025%2C+T+-%3E+40%2C+D+-%3E+45000%2C+W+-%3E+3%7D%5D). An additional variable, G, denotes the target growth in savings beyond inflation. When deriving this modified equation, the only affected part was the notorious Z (see footnote 5). Since every term after the first needs to be multiplied by G, (B/R)^Y is changed to (G×B/R)^Y. The numerator is the same because the final nest egg amount does not change. [↩](#fn6)
+
+The WolframAlpha formula for the flat approach is:
+
+ReplaceAll[D\*(100/W)\*B^T / (R^T \* Sum[(B/R)^Y, {Y, 0, T-1}]), {R -> 1.09, B -> 1.025, T -> 40, D -> 45000, W -> 3}]
+
+And for the growth approach:
+
+ReplaceAll[D\*(100/W)\*B^T / (R^T \* Sum[(G*B/R)^Y, {Y, 0, T-1}]), {G -> 1.02, R -> 1.09, B -> 1.025, T -> 40, D -> 45000, W -> 3}]
