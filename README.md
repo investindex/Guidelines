@@ -108,8 +108,6 @@ All sections:
 
 &nbsp;
 
-&nbsp;
-
 Footnotes:
 
 <sup id="f1"> 1 </sup> How many years exactly? A weasel word, _number_, is used because there is no perfect answer. The historical evidence suggests that a five-year horizon is sufficient in a large majority of cases, while an eight-year horizon is very safe and will permit you to wait for a recovery from nearly any potential downturn. In US history, only the Great Depression would violate this rule. [↩](#fn1)
