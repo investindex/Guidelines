@@ -124,7 +124,7 @@ Footnotes:
 
 <sup id="f6"> 6 </sup> The WolframAlpha calculator for calculating retirement income based on savings is [here](https://www.wolframalpha.com/input/?i=ReplaceAll%5BW*R%5ET*%28A%2BS*Sum%5B%28G%2FR%29%5EY%2C+%7BY%2C+0%2C+T-1%7D%5D%29%2C+%7BS+-%3E+6453.1%2C+G+-%3E+1.02%2C+R+-%3E+1.09%2F1.025%2C+T+-%3E+40%2C+W+-%3E+.03%2C+A+-%3E+0%7D%5D). If a flat approach is desired, set G equal to 1 to effectively remove it. The variable S is the savings target in the first year. [↩](#fn6)
 
-<sup id="f7"> 7 </sup> Discuss how variability of annual returns can change the final outcome of these approaches. [↩](#fn7)
+<sup id="f7"> 7 </sup> Discuss how variability of annual returns can change the final outcome of these approaches. The precise output of the examples above assume 9% annual returns every year. [↩](#fn7)
 
 &nbsp;
 
