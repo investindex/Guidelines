@@ -60,9 +60,40 @@ Don’t ignore the possibility of catastrophic loss — protect yourself. Consid
 
 &nbsp;
 
-## Retirement math
+## Retirement planning
 
-While the [previous section](https://github.com/investindex/Risk#preparing-for-the-long-run) provided a broad overview of retirement planning, a few specific methods of calculation are worth reviewing here. First, a simple matter of computing average return. If over three years our investments provide annual returns of 7%, 15.5%, and -2%, what is the average annual return? We must convert these percentage changes to multipliers: 1.07, 1.155, and .98. The geometric mean is calculated as (1.07×1.155×.98)^(1/3) = 1.0659, a 6.59% average annual return. See this footnote for why it must be calculated that way.<sup id="fn4">[4](#f4)</sup>
+Let's start with a broad overview of how to think about preparing for long-run investing and retirement.
+
+Factors over which you exercise some control include:  
+-Income during your working years and changes in income over time;  
+-Allocation and timing of investments;  
+-Use of [tax-advantaged accounts](https://github.com/investindex/Guidelines#tax-advantaged-accounts);  
+-At what age you may merge finances with a long-term partner;  
+-At what age you may have children;  
+-Support you expect to provide to and receive from your family;  
+-How much you will spend, save, and invest during working years;  
+-How much you will change your spending after retirement;  
+-How you will change your investment approach after retirement;  
+-Age of retirement;  
+-Whether you retire suddenly or continue earning a smaller income for some time;  
+-Personal goals such as charitable donations or leaving money for your children.
+
+Factors over which you exercise little or no control include:  
+-[Asset class](https://www.investopedia.com/terms/a/assetclasses.asp) returns for stocks and bonds;  
+-Inflation rates;  
+-Interest rates;  
+-Tax rates;  
+-Government benefits like Social Security, which may change by the time you retire.
+
+Although there are variables you cannot control, like federal tax rates, you can adjust variables which are under your control, like savings rates, to make it more likely that you’ll be prepared for an uncertain future. There are also factors which are under your control to a great degree, except in rare situations. Health is a perfect example: most people have the opportunity to reduce expected health care costs by keeping themselves healthy, but it is always possible to be dealt an unavoidable illness or injury. These are the potentially catastrophic risks you can work to avoid, as discussed above.
+
+Many of these variables can be entered into an online retirement calculator like [this one](https://www.bankrate.com/retirement/calculators/retirement-plan-calculator/). Basic calculators give you an idea of how your saving and investing will add up in the long run, and whether they can sustain you during retirement. But make sure to consider the factors not explicitly included in these calculators, like unexpected support you may need to provide to children or aging parents in middle age, and potentially [very high](https://newsroom.fidelity.com/press-releases/news-details/2021/Fidelitys-20th-Annual-Retiree-Health-Care-Cost-Estimate-Hits-New-High-A-Couple-Retiring-Today-Will-Need-300000-to-Cover-Medical-Expenses-an-88-Increase-Since-2002/default.aspx) medical costs in old age.
+
+Some of the math needed for retirement planning is more advanced than many people are used to. It's important not to rely on opaque calculators and to understand the assumptions behind the numbers that guide your saving and investing. These calculations are inevitably based on rough assumptions. The future is uncertain and it’s not possible to include everything that could influence your wealth. But working out imprecise numbers is far better than the vague assumptions that would take their place. Planning your future will also demonstrate how useful it is to keep track of your spending. Exactly how much do you spend on food? How much does car maintenance cost? You will be able to project future spending far more accurately if you record and categorize your current spending. You may also be able to target areas in which you’re spending more than you thought.
+
+#### Les mathématiques
+
+We can begin with a simple matter of computing average return. If over three years our investments provide annual returns of 7%, 15.5%, and -2%, what is the average annual return? We must convert these percentage changes to multipliers: 1.07, 1.155, and .98. The geometric mean is calculated as (1.07×1.155×.98)^(1/3) = 1.0659, a 6.59% average annual return. See this footnote for why it must be calculated that way.<sup id="fn4">[4](#f4)</sup>
 
 Second, how does [inflation](https://www.investopedia.com/terms/i/inflation.asp) work when calculating returns? We can calculate growth over time based on an anticipated average rate of return. If we assume a 9% average annual return over 40 years, the asset will be multiplied by 1.09^40 = 31.4. This is our nominal return, which is distinguished from the real return — that which remains after accounting for inflation. With average 2.5% inflation, it is calculated as 1.09/1.025 = 1.0634, or a 6.34% real return. This gives us a real multiplier over 40 years of (1.09/1.025)^40 = 11.7. So instead of imagining that your money will multiply by 31.4, remember that your dollars will be worth less in 40 years, and the multiplier will feel much more like 11.7. If this shrinking multiplier is discouraging, imagine how your dollars would decay if you didn't invest at all: (1/1.025)^40 = .372. They would lose 63% of their purchasing power over 40 years! A 9% nominal return converts that multiplier of .37 to 11.7.
 
