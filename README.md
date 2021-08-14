@@ -26,7 +26,7 @@ Index funds are useful because they invest in a shifting collection of hundreds 
 
 When you decide how much money to save and invest, you should consider why you are investing: retirement or other long-term goals, college tuition, a vacation, a down payment on a car or house. Assigning purposes to various portions of your money forces you to consider which investments are appropriate for each portion. All-in-one funds, on the other hand, may cause someone to vaguely reflect on the level of risk they desire, without ever thinking through how they would distribute each portion to specific buckets like stocks, long-term bonds, and short-term bonds. If stocks crash, they may realize their stock allocation was too heavy; or if stocks have a brilliant run-up, they may wish they hadn't held so much in bonds. Whatever degree of complexity you choose, ensure that your allocation will produce an acceptable outcome regardless of how the stock market behaves in the near future. The only way to do this is through deliberate planning, not vague assessment of your risk tolerance.
 
-I'll suggest the following outline depending on the time horizon for a given portion of your assets:
+I'll suggest the following outline depending on the time horizon for a given portion of someone's assets:
 * 8+ years: stocks
 * 3-8 years: some combination of stocks, high-yield bonds, and long-term bonds of high quality
 * 1-3 years: some combination of high-quality bonds (e.g., short and long funds _or_ an aggregate fund)
