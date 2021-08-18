@@ -123,7 +123,7 @@ The assumptions of the examples above are open to question: someone might object
 
 There are a few notes to keep in mind.
 
-(1) Savings targets like $8,361 don't all come from your paycheck. Employer matching in your 401(k) might account for a few thousand dollars. Once you add your own contributions, this minimum 401(k) activity puts a large dent in the savings you need.
+(1) Savings targets like $8,361 don't all come from your paycheck. Employer matching in your 401(k) might account for a few thousand dollars. Once you add your own contributions, this minimum 401(k) activity can put a large dent in the savings you need.
 
 (2) It is hard to predict the spending levels you'll desire decades in advance, as well as the funds you'll need to set aside for health care and beneficiaries. One reminder may be comforting. Because you no longer need to save money once you've retired, the "income" you require from investments and Social Security for a particular standard of living is inherently lower than the income needed during working years. If a 68-year-old retires and was making $75K/year while saving $25K/year for retirement, they need only $50K/year to support the same lifestyle (in fact, slightly less due to taxes).
 
