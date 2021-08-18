@@ -29,7 +29,7 @@ When you decide how much money to save and invest, you should consider why you a
 I'll suggest the following outline depending on the time horizon for a given portion of someone's assets:
 * 8+ years: stocks
 * 3-8 years: some combination of stocks, high-yield bonds, and long-term bonds of high quality
-* 1-3 years: some combination of high-quality bonds (e.g., short and long funds _or_ an aggregate fund)
+* 1-3 years: some combination of the above and high-quality, short-term bonds
 * Less than 1 year: high-quality, short-term bonds
 
 As addressed in the next topic, this is a very general proposal and not appropriate for everyone.
