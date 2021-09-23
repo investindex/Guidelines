@@ -165,15 +165,27 @@ Footnotes:
 
 <sup id="f1"> 1 </sup> How many years exactly? A weasel word, _number_, is used because there is no perfect answer. The historical evidence suggests that a five-year horizon is sufficient in a large majority of cases, while an eight-year horizon is very safe and will permit you to wait for a recovery from nearly any potential downturn. In US history, only the Great Depression would violate this rule. [↩](#fn1)
 
+&nbsp;
+
 <sup id="f2"> 2 </sup> The potential advantages of a traditional or Roth plan depend mainly on whether you expect your marginal tax rate during retirement to be higher or lower than the marginal tax rate in the year you’re contributing. A year with low income suggests the Roth plan. Someone with a large traditional IRA could also [convert some money to their Roth IRA](https://www.investopedia.com/terms/i/iraconversion.asp) by paying taxes that year on the transferred money. If you have a six-figure income, you may exceed IRS limits for contributing to a Roth IRA, but you can still do so [through a backdoor](https://www.investopedia.com/how-to-set-up-a-backdoor-roth-ira-4584775). [↩](#fn2)
+
+&nbsp;
 
 <sup id="f3"> 3 </sup> Money in tax-advantaged accounts cannot legally be traded on [margin](https://www.investopedia.com/terms/m/margin.asp), so IRAs and HSAs are still less capable than a taxable brokerage account. A feature called limited margin is allowed, which allows you to re-use funds immediately instead of being subject to a two-day [settlement period](https://www.investopedia.com/terms/s/settlement_period.asp), as is required in a cash account. By design, limited margin does not permit use of borrowed funds. [↩](#fn3)
 
+&nbsp;
+
 <sup id="f4"> 4 </sup> For some people it may not be obvious why the more common arithmetic mean is unsuitable. Perhaps we could have found the average return like this: (7+15.5-2)/3 = 6.83 or (1.07+1.155+.98)/3 = 1.0683. To consider this, we can imagine an unlikely sequence of returns, in which we double our money the first year and halve it the following year. Multiplying an asset by 2 and then .5 returns it to its original value. We can calculate the geometric mean of these multipliers, which we know intuitively should be 1: (2×.5)^(1/2) = 1. That's right, but the arithmetic mean gives us an incorrect answer, (2+.5)/2 = 1.25. Another way of checking this is finding that the average return matches the actual return. 1.07×1.155×.98 = 1.21, which equals 1.0659^3. The arithmetic mean of 1.0683 does not satisfy this test. Because we are averaging multiplicative factors, the geometric mean must be applied. [↩](#fn4)
+
+&nbsp;
 
 <sup id="f5"> 5 </sup> You can [click here](https://www.wolframalpha.com/input/?i=ReplaceAll%5B%28D%2F%28W*R%5ET%29-A%29+%2F+Sum%5B%28G%2FR%29%5EY%2C+%7BY%2C+0%2C+T-1%7D%5D%2C+%7BR+-%3E+1.09%2F1.025%2C+G+-%3E+1.02%2C+T+-%3E+40%2C+D+-%3E+45000%2C+W+-%3E+.03%2C+A+-%3E+0%7D%5D) to use a formula I set up in WolframAlpha. There are six variables. Five were already discussed: R for annual real return, T for years until retirement, D for desired retirement income in today's dollars, W for withdrawal rate, and G for inflation-adjusted annual growth of savings. G is introduced in the second approach to saving; to use the flat approach, set G equal to 1. The sixth variable is A, savings which already exist. The examples above assume no savings are set aside for retirement yet, but we can easily add this to the equation. R is the nominal return rate divided by inflation rate, 1.09/1.025 in the example above. To see how the equation is derived, [click here](https://github.com/investindex/Guidelines/blob/main/Retirement.pdf). [↩](#fn5)
 
+&nbsp;
+
 <sup id="f6"> 6 </sup> The WolframAlpha calculator for calculating retirement income based on savings is [here](https://www.wolframalpha.com/input/?i=ReplaceAll%5BW*R%5ET*%28A%2BS*Sum%5B%28G%2FR%29%5EY%2C+%7BY%2C+0%2C+T-1%7D%5D%29%2C+%7BS+-%3E+6453.1%2C+G+-%3E+1.02%2C+R+-%3E+1.09%2F1.025%2C+T+-%3E+40%2C+W+-%3E+.03%2C+A+-%3E+0%7D%5D). If a flat approach is desired, set G equal to 1 to effectively remove it. The variable S is the savings target in the first year. [↩](#fn6)
+
+&nbsp;
 
 <sup id="f7"> 7 </sup> An attentive reader might wonder if the same applies to building the nest egg during working years. One of the assumptions used in my calculations was not only that the average annual nominal return was 9%, but that the nominal return _every year_ was 9%. But there are unlimited combinations of annual returns whose average is 9%. Couldn't some of those combinations result in a nest egg that is significantly smaller or larger than the one I calculated? The short answer is, as long as the average ends up close to 9%, it's not a concern.
 
