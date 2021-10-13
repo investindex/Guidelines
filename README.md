@@ -168,7 +168,7 @@ Footnotes:
 
 &nbsp;
 
-<sup id="f2"> 2 </sup> The potential advantages of a traditional or Roth plan depend mainly on whether you expect your marginal tax rate during retirement to be higher or lower than the marginal tax rate in the year you’re contributing. A year with low income suggests the Roth plan. Someone with a large traditional IRA could also [convert some money to their Roth IRA](https://www.investopedia.com/terms/i/iraconversion.asp) by paying taxes that year on the transferred money. If you have a six-figure income, you may exceed IRS limits for contributing to a Roth IRA, but you can still do so [through a backdoor](https://www.investopedia.com/how-to-set-up-a-backdoor-roth-ira-4584775). [↩](#fn2)
+<sup id="f2"> 2 </sup> The potential advantages of a [traditional](https://www.investopedia.com/terms/t/traditionalira.asp) or [Roth](https://www.investopedia.com/terms/r/rothira.asp) plan depend mainly on whether you expect your marginal tax rate during retirement to be higher or lower than the marginal tax rate in the year you’re contributing. A year with low income suggests the Roth plan. Someone with a large traditional IRA could also [convert some money to their Roth IRA](https://www.investopedia.com/terms/i/iraconversion.asp) by paying taxes that year on the transferred money. If you have a six-figure income, you may exceed IRS limits for contributing to a Roth IRA, but you can still do so [through a backdoor](https://www.investopedia.com/how-to-set-up-a-backdoor-roth-ira-4584775). [↩](#fn2)
 
 &nbsp;
 
