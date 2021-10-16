@@ -20,7 +20,7 @@ Pay debt instead of holding bonds or cash, and pay high-interest debt instead of
 
 &nbsp;
 
-## Simplify, don't oversimplify
+## Simplify your investments, don't simplify your thinking
 
 Index funds are useful because they invest in a shifting collection of hundreds or thousands of securities, which would be an onerous task for anyone without access to institutional resources. They illustrate that simple solutions can be superior to complex solutions. There are expanding offerings for the ultimate simplification: all-in-one funds. They allow you to select a single fund based on allocation, such as 60% stocks and 40% bonds, and provide you with an automatically [rebalanced](https://www.investopedia.com/terms/r/rebalancing.asp), globally diversified assembly of stocks and bonds. There are all-in-one mutual funds from [Vanguard](https://investor.vanguard.com/mutual-funds/lifestrategy) and [Schwab](https://www.schwab.com/mutual-funds/mutual-fund-portfolio/market-track-portfolios), as well as all-in-one ETFs from BlackRock with allocations of [80/20](https://www.ishares.com/us/products/239729/ishares-aggressive-allocation-etf), [60/40](https://www.ishares.com/us/products/239756/ishares-growth-allocation-etf), [40/60](https://www.ishares.com/us/products/239765/ishares-moderate-allocation-etf), and [30/70](https://www.ishares.com/us/products/239733/ishares-conservative-allocation-etf). Although using one of these is far better than not investing, they carry a hazard.
 
