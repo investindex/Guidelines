@@ -208,8 +208,8 @@ So while the idea that stock market returns will be the same every year is utter
 
 The WolframAlpha formula to calculate savings from desired retirement income is:
 
-ReplaceAll[(D/(W\*R^T)-A) / Sum[(G/R)^Y, {Y, 0, T-1}], {R -> 1.09/1.025, G -> 1.02, T -> 40, D -> 45000, W -> .03, A -> 0}]
+ReplaceAll[(D/(W\*R^T)-A) / Sum[(G/R)^Y, {Y, 0, T-1}], {R -> 1.09/1.025, G -> 1, T -> 40, D -> 45000, W -> .035, A -> 0}]
 
 And to calculate retirement income from savings:
 
-ReplaceAll[W\*R^T\*(A+S\*Sum[(G/R)^Y, {Y, 0, T-1}]), {S -> 6453.1, G -> 1.02, R -> 1.09/1.025, T -> 40, W -> .03, A -> 0}]
+ReplaceAll[W\*R^T\*(A+S\*Sum[(G/R)^Y, {Y, 0, T-1}]), {S -> 5531.23, G -> 1.02, R -> 1.09/1.025, T -> 40, W -> .035, A -> 0}]
