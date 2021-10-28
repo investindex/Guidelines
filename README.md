@@ -101,7 +101,7 @@ Factors over which you exercise little or no control include:
 -Tax rates;  
 -Government benefits like Social Security, which may change by the time you retire.
 
-The daunting scope of retirement planning may provoke some people who haven't thought much about the arc of their life plan to start to consider some important questions. What do you value about money and what do you want to do with it? How much is enough? How much time and how many years do you want to spend working for pay? After approaching financial independence, is there something you would enjoy doing that pays less or not at all? 
+The daunting scope of retirement planning may provoke some people who haven't thought much about the arc of their life plan to start to consider some important questions. What do you value about money and what do you want to do with it? How much is enough? How much time and how many years do you want to spend working for pay? After approaching financial independence, is there something you would enjoy doing that pays less or nothing at all? 
 
 Although there are variables you cannot control, like federal tax rates, you can adjust variables which are under your control, like savings rates, to make it more likely that you’ll be prepared for an uncertain future. There are also factors which are under your control to a great degree, except in rare situations. Health is a perfect example: most people have the opportunity to reduce expected health care costs by keeping themselves healthy, but it is always possible to be dealt an unavoidable illness or injury. As discussed above, this falls in the category of potentially catastrophic risks you can insure yourself against.
 
