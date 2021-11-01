@@ -30,7 +30,7 @@ I'll suggest the following outline depending on the time horizon for a given por
 * 8+ years: stocks
 * 3-8 years: some combination of stocks + high-yield bonds + high-quality, intermediate- and long-term bonds
 * 1-3 years: some combination of the above + high-quality, short-term bonds
-* Less than 1 year: high-quality, short-term bonds
+* Less than 1 year: high-quality, short-term bonds + cash
 
 As addressed in the next topic, this is a very general proposal and, as vague as it is, it is still not appropriate for everyone.
 
