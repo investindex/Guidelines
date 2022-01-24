@@ -34,7 +34,9 @@ I'll suggest the following outline depending on the time horizon for a given por
 * 1-3 years: high-yield bonds + (mostly) high-quality bonds
 * Less than 1 year: high-quality, short-term bonds + cash/money market fund
 
-As addressed in the next topic, this is a very general proposal and, as vague as it is, it is still not appropriate for everyone.
+As addressed in the next topic, this is a very general proposal and, as vague as it is, it is still not appropriate for everyone. Someone may also want to consider the maximium drawdown they're willing to tolerate.
+
+Target retirement funds are another type of all-in-one fund. They increase bond allocation over time as investors gradually approach a given retirement year (e.g., [Vanguard Target Retirement Fund 2040](https://investor.vanguard.com/mutual-funds/profile/VFORX)). These are great as a default investment in 401(k) accounts, but I don't encourage them for people who are willing to devote any time to this. Deciding on a stock/bond allocation is a task most people can handle, especially those willing to read a guide like this. Letting a default [glide path](https://www.investopedia.com/terms/g/glide-path.asp) dictate your asset allocation is often not in your best interest. Moreover, be aware that target retirement funds are [not always sensitive](https://www.wsj.com/articles/vanguard-target-retirement-tax-bill-surprise-11642781228) to those using the fund in a taxable account. They may have large capital gains distributions to which their tax-advantaged 401(k) investors are indifferent.
 
 &nbsp;
 
