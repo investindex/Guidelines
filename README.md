@@ -22,6 +22,32 @@ Pay debt instead of holding bonds or cash, and pay high-interest debt instead of
 
 One other consideration is important. If needed, money invested in stocks or bonds can be easily liquidated. In contrast, a drawback of paying debt is that the decision can’t be easily reversed. The money is paid back, and would need to be borrowed again if you had an unexpected need for it. However, paying debt can be a very attractive equivalent of investing, as the footnote illustrates.
 
+<!--
+&nbsp;
+
+## Financial security
+
+Financial fraud is unfortunately a common occurrence. There are a number of simple actions and habits anyone can use to drastically lower the probability of being a victim of fraud.
+
+Lock debit card. Use credit cards.
+
+Read the [personal finance subreddit](https://www.reddit.com/r/personalfinance/). In addition to fraud, it contains discussion of useful topics like improving your credit and managing debt.
+
+Check your bank account and credit card accounts often. Sign up for all possible alerts. I personally receive both an email and a mobile alert whenever there is a deposit to or withdrawal from my bank account, whenever a credit card is charged, and whenever personal information like my address is changed. If you have the patience, activate two-factor authentication so that you confirm all logins using your phone. This may seem tedious but it greatly enhances the security of your accounts.
+
+Keep your electronic devices locked and don't share passwords with anyone unless you completely trust them. Most people do not consider how much of their information is vulnerable after simply bypassing the lock on their phone or computer. The perpetrators of fraud are often family members, and because most people would be reluctant to pursue criminal charges against a family member, they often have no recourse. High levels of security like two-factor authentication work only if you keep your devices secure.
+
+Know who has access to your accounts, and which accounts. If you notice activity you can't explain, you need to know who to contact about this before reporting fraud. There are two important reasons: (1) you want to avoid false positives, in which you report fraudulent activity but soon find out that it was normal; and (2) you want to be able to report real fraud as soon as possible, so you should know who could be responsible for activity in your account. A major way of reducing this confusion is by minimizing the number of accounts and cards to which anyone else has access.
+
+Don't fall into the trap of assuming that you're an unlikely target of fraud because there is not much money in your bank account. Testimonies on the personal finance subreddit show that it's all too common for people with less than $10,000 in their accounts to find that their money has been stolen. These are perhaps attractive targets because they're unlikely to have significant additional resources to draw on.
+
+If a stranger sends you money using a service like Venmo or PayPal, and contacts you saying it was an accident, do not send the money back. This is a well-known scam.
+
+If a company calls and says to call back at a particular number, don’t call that number. Check the company’s website for their official number, and call _that_ number. A common tactic by fraudsters is to represent themselves as a trusted party and ask you to call back at a number of their choosing. Never give anyone personal information, like your Social Security number, unless you contacted them and you’re sure you know who they are. Be extremely conscious of when you're supplying any sensitive information.
+
+Grandmother scam. Perhaps alert relatives.
+-->
+
 &nbsp;
 
 ## Simplify your investments, don't simplify your thinking
