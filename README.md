@@ -1,6 +1,6 @@
 # Guidelines for financial planning
 
-There is no perfect distribution of stocks, bonds, and other assets. This depends on many factors. Health, age, debt, income, job security, marriage status, children (or plans to have them), risk tolerance, and your personal goals — these are only some of them. The broad goal here is to provide tools to assess what investments fit your situation and how to arrange some other aspects of personal finance. However, a few guidelines discussed below can be applied broadly.
+There is no perfect distribution of stocks, bonds, and other assets. This depends on many factors. Health, age, debt, income, job security, marriage status, children (or plans to have them), risk tolerance, and your personal goals — these are only some of them. The broad goal here is to provide tools to assess what investments fit your situation. However, a few guidelines discussed below can be applied broadly, and we'll also cover important personal finance topics not directly related to investing.
 
 &nbsp;
 
