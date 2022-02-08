@@ -29,11 +29,9 @@ One other consideration is important. If needed, money invested in stocks or bon
 
 Financial fraud is unfortunately a common occurrence. There are a number of simple actions and habits anyone can use to drastically lower the probability of being a victim of fraud.
 
-Lock debit card. Use credit cards.
+Lock debit card. Use credit cards. If you're unable to be approved for a credit card right now, see the [personal finance subreddit](https://www.reddit.com/r/personalfinance/) for advice. It's a fantastic resource for all topics in personal finance, including fraud, building credit, managing debt, budgeting, and insurance.
 
-Read the [personal finance subreddit](https://www.reddit.com/r/personalfinance/). In addition to fraud, it contains discussion of useful topics like improving your credit and managing debt.
-
-Check your bank account and credit card accounts often. Sign up for all possible alerts. I personally receive both an email and a mobile alert whenever there is a deposit to or withdrawal from my bank account, whenever a credit card is charged, and whenever personal information like my address is changed. If you have the patience, activate two-factor authentication so that you confirm all logins using your phone. This may seem tedious but it greatly enhances the security of your accounts.
+Check your bank account and credit card accounts often, at least twice per week. Sign up for all possible alerts. I personally receive both an email and a mobile alert whenever there is a deposit to or withdrawal from my bank account, whenever a credit card is charged, and whenever personal information on file like my address is changed. If you have the patience, activate two-factor authentication so that you confirm all logins using your phone. This may seem tedious but it greatly enhances the security of your accounts.
 
 Keep your electronic devices locked and don't share passwords with anyone unless you completely trust them. Most people do not consider how much of their information is vulnerable after simply bypassing the lock on their phone or computer. The perpetrators of fraud are often family members, and because most people would be reluctant to pursue criminal charges against a family member, they often have no recourse. High levels of security like two-factor authentication work only if you keep your devices secure.
 
