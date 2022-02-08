@@ -1,8 +1,6 @@
 # Guidelines for financial planning
 
-There is no perfect distribution of stocks, bonds, and other assets. This depends on many factors. Health, age, debt, income, job security, marriage status, children (or plans to have them), risk tolerance, and your personal goals — these are only some of them. The broad goal here is to provide tools to assess what investments fit your situation. However, a few financial guidelines discussed below can be applied broadly.
-
-Mathematical details of [retirement planning](https://github.com/investindex/Guidelines#retirement-planning) are also described. Hopefully they illustrate the impressive power of compounding growth that can make comfortable retirement possible.
+There is no perfect distribution of stocks, bonds, and other assets. This depends on many factors. Health, age, debt, income, job security, marriage status, children (or plans to have them), risk tolerance, and your personal goals — these are only some of them. The broad goal here is to provide tools to assess what investments fit your situation and how to arrange some other aspects of personal finance. However, a few guidelines discussed below can be applied broadly.
 
 &nbsp;
 
@@ -41,7 +39,7 @@ Know who has access to your accounts, and which accounts. If you notice activity
 
 Don't fall into the trap of assuming that you're an unlikely target of fraud because there is not much money in your bank account. Testimonies on the personal finance subreddit show that it's all too common for people with less than $10,000 in their checking accounts to find that their money has been stolen. For example, people have found that thousands of dollars disappeared from their account due to multiple ATM withdrawals or debit card charges before they noticed. Following the advice above prevents this: lock your debit card, turn on activity alerts, and check your account often.
 
-Consider keeping a categorized budget and recording all spending in a spreadsheet. The act of comparing your accounts against your recorded spending will keep you from overlooking small, dispersed fraud. Many people fail to notice these kinds of purchases because their account value is not strongly affected at any one time, and because they don't pay close attention to their account activity. It's easy to let a busy life get in the way of keeping track of your money — try not to let it. As we'll see below, recording your budget is also important for planning your future, because you have to know how much you spend in order to know how much to save and invest.
+Consider keeping a categorized budget and recording all spending in a spreadsheet. The act of comparing your accounts against your recorded spending will keep you from overlooking small, dispersed fraud. Many people fail to notice these kinds of purchases because their account value is not strongly affected at any one time, and because they don't pay close attention to their account activity. It's easy to let a busy life get in the way of keeping track of your money — try not to let it. As we'll see in the [next section](https://github.com/investindex/Retirement), recording your budget is also important for planning your future, because you have to know how much you spend in order to know how much to save and invest.
 
 If you conclude with confidence that someone has spent your money fraudulently, and your bank is not forthcoming with reversals of the spending, it is best to file a police report. This quickly alerts your bank to the gravity of the situation. If your fraud claims are unsuccessful, you may also want to file a report with the Consumer Financial Protection Bureau and/or the FBI.
 
