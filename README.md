@@ -49,7 +49,7 @@ If a company calls and asks you to call back at a particular number, don’t cal
 To some people, focusing on security to this degree may seem like overkill. I'll simply say that these measures would have seemed like overkill to many people who found that $5,000 was withdrawn from their checking account over the course of multiple days, or that someone spent $3,000 on their Amazon account over six months before they noticed. Like insurance, security measures are not meant to feel convenient or make you happy. Hopefully imagining the feelings of regret and stress that accompany a fraud investigation will motivate you to take the steps described here _before_ anything bad happens. Reading posts by people requesting advice after being defrauded on the [personal finance subreddit](https://www.reddit.com/r/personalfinance/) may serve as additional motivation.
 
 <!--
-Grandmother scam. Perhaps alert relatives.
+Grandmother scam.
 -->
 
 &nbsp;
@@ -66,7 +66,7 @@ I'll suggest the following outline depending on the time horizon for a given por
 * 2-4 years: high-yield bonds + (mostly) high-quality bonds
 * Less than 2 years: high-quality, short-term bonds + cash/money market fund
 
-As addressed in the next topic, this is a very general proposal and, as vague as it is, it is still not appropriate for everyone. Someone may also want to consider the maximium drawdown they're willing to tolerate.
+As addressed in the next topic, this is a very general proposal and, as vague as it is, it is still not appropriate for everyone. Someone may also want to consider the maximium drawdown they're willing to tolerate. For example, if they have savings assigned to uses in the next two years but they don't need every dollar, they may invest in an aggregate bond fund instead of only short-term bonds.
 
 Target retirement funds are another type of all-in-one fund. They increase bond allocation over time as investors gradually approach a given retirement year (e.g., [Vanguard Target Retirement Fund 2040](https://investor.vanguard.com/mutual-funds/profile/VFORX)). These are great as a default investment in 401(k) accounts, but I don't encourage them for people who are willing to devote any time to this. Deciding on a stock/bond allocation is a task most people can handle, especially those willing to read a guide like this. Allowing a default [glide path](https://www.investopedia.com/terms/g/glide-path.asp) to dictate your asset allocation is often not in your best interest. Moreover, be aware that target retirement funds are [not always sensitive](https://www.wsj.com/articles/vanguard-target-retirement-tax-bill-surprise-11642781228) to those using the fund in a taxable account. They may have large capital gains distributions to which their tax-advantaged 401(k) investors are indifferent.
 
