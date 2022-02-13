@@ -144,7 +144,7 @@ It would be sensible to recognize that the equivalent of a risk-free 6.25% annua
 
 &nbsp;
 
-<sup id="f2"> 2 </sup> How many years exactly? A weasel word, _number_, is used because there is no perfect answer. The historical evidence suggests that a five-year horizon is sufficient in a large majority of cases, while an eight-year horizon is very safe and will permit you to wait for a recovery from nearly any potential downturn. In US history, only the [Great Depression](https://github.com/investindex/Risk#f5) would violate this rule. [↩](#fn2)
+<sup id="f2"> 2 </sup> How many years exactly? A weasel word, _number_, is used because there is no perfect answer. The historical evidence suggests that a five-year horizon is sufficient in a large majority of cases, while an eight-year horizon is very safe and will permit you to wait for a recovery from nearly any potential downturn. In US history, only the [Great Depression](https://github.com/investindex/Risk#f6) would violate this rule. [↩](#fn2)
 
 &nbsp;
 
