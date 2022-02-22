@@ -44,7 +44,7 @@ Consider keeping a __categorized budget__ and recording all spending in a spread
 
 __Go paperless__. Change your settings so that you minimize mail from your bank, broker, insurance provider, retirement account administrator, and others with any sensitive information.
 
-If you conclude with confidence that someone has stolen your money or spent it fraudulently, it is best to file a police report. This quickly alerts your bank to the gravity of the situation, and will encourage them not to drag their feet, for which they are notorious. If your fraud claims are unsuccessful, you may also want to file a report with the Consumer Financial Protection Bureau and/or the FBI.
+If you conclude with confidence that someone has stolen your money or spent it fraudulently, it is best to file a police report as soon as possible. This alerts your bank to the gravity of the situation, and will encourage them not to drag their feet, for which they are notorious. If your fraud claims are unsuccessful, you may also want to file a report with the Consumer Financial Protection Bureau and/or the FBI.
 
 Scams are abundant, and while some are too obvious for anyone but your oldest relatives to fall for, others can be tricky. If a stranger sends you money with a service like Venmo or PayPal, and contacts you saying it was an accident, do not send the money back. This is a [well-documented scam](https://fraudpreventionunit.org/2021/07/21/watch-out-for-this-venmo-scam/).
 
