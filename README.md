@@ -157,3 +157,9 @@ It would be sensible to recognize that the equivalent of a risk-free 6.25% annua
 <sup id="f4"> 4 </sup> Money in tax-advantaged accounts cannot legally be traded on [margin](https://www.investopedia.com/terms/m/margin.asp), so IRAs and HSAs are still less capable than a taxable brokerage account. A feature called limited margin is allowed, which allows you to re-use funds immediately instead of being subject to a two-day [settlement period](https://www.investopedia.com/terms/s/settlement_period.asp), as is required in a cash account. By design, limited margin does not permit use of borrowed funds. [↩](#fn4)
 
 &nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
