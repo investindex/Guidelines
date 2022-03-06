@@ -56,6 +56,8 @@ See this footnote<sup id="fn2">[[2]](#f2)</sup> for information on how __freezin
 
 <!--
 Grandmother scam.
+
+Building credit: pay off all cards to zero balance (not just the statement balance) every month, while leaving a small, non-interest bearing amount on one card ([AZEO](https://thefirestarterpack.com/credit-utilization-basics-and-azeo-method)).
 -->
 
 &nbsp;
