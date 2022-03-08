@@ -2,6 +2,15 @@
 
 There is no perfect distribution of stocks, bonds, and other assets. This depends on many factors. Health, age, debt, income, job security, marriage status, children (or plans to have them), risk tolerance, and your personal goals — these are only some of them. The broad goal here is to provide tools to assess what investments fit your situation. However, a few guidelines discussed below can be applied broadly, and we'll also cover important personal finance topics not directly related to investing.
 
+Click to skip to each section:
+* [Minimize risk of catastrophic loss](https://github.com/investindex/Guidelines#minimize-risk-of-catastrophic-loss)
+* [Debt and investment](https://github.com/investindex/Guidelines#debt-and-investment)
+* [Financial security and risk management](https://github.com/investindex/Guidelines#financial-security-and-risk-management)
+* [Simplify your investments, don't simplify your thinking](https://github.com/investindex/Guidelines#simplify-your-investments-dont-simplify-your-thinking)
+* [Allocation and time horizon](https://github.com/investindex/Guidelines#allocation-and-time-horizon)
+* [Tax-advantaged accounts](https://github.com/investindex/Guidelines#tax-advantaged-accounts)
+* [Summary](https://github.com/investindex/Guidelines#summary)
+
 &nbsp;
 
 ## Minimize risk of catastrophic loss
