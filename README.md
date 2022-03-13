@@ -35,7 +35,7 @@ Ensure you know the distinction between APR and APY; banks advertise APR for loa
 
 &nbsp;
 
-## Financial security and risk management
+## Fraud prevention
 
 Financial fraud is unfortunately a common occurrence. There are a number of simple actions and habits anyone can use to drastically lower the probability of being a victim of fraud.
 
