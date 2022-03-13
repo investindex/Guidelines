@@ -5,7 +5,7 @@ There is no perfect distribution of stocks, bonds, and other assets. This depend
 Click to skip to each section:
 * [Minimize risk of catastrophic loss](https://github.com/investindex/Guidelines#minimize-risk-of-catastrophic-loss)
 * [Debt and investment](https://github.com/investindex/Guidelines#debt-and-investment)
-* [Financial security and risk management](https://github.com/investindex/Guidelines#financial-security-and-risk-management)
+* [Fraud prevention](https://github.com/investindex/Guidelines#fraud-prevention)
 * [Simplify your investments, don't simplify your thinking](https://github.com/investindex/Guidelines#simplify-your-investments-dont-simplify-your-thinking)
 * [Allocation and time horizon](https://github.com/investindex/Guidelines#allocation-and-time-horizon)
 * [Tax-advantaged accounts](https://github.com/investindex/Guidelines#tax-advantaged-accounts)
