@@ -8,7 +8,7 @@ Click to skip to each section:
 * [Fraud prevention](https://github.com/investindex/Guidelines#fraud-prevention)
 * [Simplify your investments, don't simplify your thinking](https://github.com/investindex/Guidelines#simplify-your-investments-dont-simplify-your-thinking)
 * [Allocation and time horizon](https://github.com/investindex/Guidelines#allocation-and-time-horizon)
-* [Tax-advantaged accounts](https://github.com/investindex/Guidelines#tax-advantaged-accounts) - [Retirement](https://github.com/investindex/Guidelines#retirement-accounts) - [HSA](https://github.com/investindex/Guidelines#health-savings-accounts) - [529 accounts, etc.](https://github.com/investindex/Guidelines#529-accounts-contribution-limits-and-charity)
+* [Tax-advantaged accounts](https://github.com/investindex/Guidelines#tax-advantaged-accounts): [Retirement](https://github.com/investindex/Guidelines#retirement-accounts) - [HSA](https://github.com/investindex/Guidelines#health-savings-accounts) - [529 accounts, etc.](https://github.com/investindex/Guidelines#529-accounts-contribution-limits-and-charity)
 * [Summary](https://github.com/investindex/Guidelines#summary)
 
 &nbsp;
