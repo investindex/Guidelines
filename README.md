@@ -25,6 +25,8 @@ Many people don’t take these actions or, if their finances are chronically str
 
 &nbsp;
 
+&nbsp;
+
 ## Debt and investment
 
 Pay debt instead of holding bonds or cash, and pay high-interest debt instead of holding stocks. Someone with low-interest loans — let’s say less than 4% [APY](https://www.investopedia.com/terms/a/apy.asp) — should not invest in bonds or hold large amounts of cash. This [usually includes someone](https://www.youtube.com/watch?v=AKc01jo1qLw) with a home mortgage. Someone paying high interest — a 7% student loan or a 20% credit card loan — should not invest in the stock market either. A tax-free and risk-free 7% annualized return is achieved by every payment on a 7% APY loan. This is preferable to the higher average return from stocks, because the latter carries far more risk and will be taxed. Of course, you should address debt with the highest interest rate first; for many people this is credit card debt. All super high-interest loans like these should be paid off before investing or even building an [emergency fund](https://www.youtube.com/watch?v=vftjBTjFlzI). The exact interest rate thresholds depend on your risk tolerance and marginal tax rate. See this footnote<sup id="fn1">[[1]](#f1)</sup> for an example that works out the mathematics of comparing debt payments to investing.
@@ -32,6 +34,8 @@ Pay debt instead of holding bonds or cash, and pay high-interest debt instead of
 One other consideration is important. If needed, money invested in stocks or bonds can be easily liquidated. In contrast, a drawback of paying debt is that the decision can’t be easily reversed. The money is paid back, and would need to be borrowed again if you had an unexpected need for it. However, paying debt can be a very attractive equivalent of investing, as the footnote illustrates.
 
 Ensure you know the distinction between APR and APY; banks advertise APR for loans and APY for savings accounts.
+
+&nbsp;
 
 &nbsp;
 
@@ -57,6 +61,8 @@ Consider keeping a __categorized budget__ and recording all spending in a spread
 
 __Go paperless__. Change your settings so that you minimize mail from your bank, broker, insurance provider, retirement account administrator, and others with any sensitive information.
 
+&nbsp;
+
 #### Interpersonal scams
 
 Scams are abundant, and while some are too obvious for anyone but your oldest relatives to fall for, others can be tricky. If a stranger sends you money with a service like Venmo or PayPal, and contacts you saying it was an accident, do not send the money back. This is a [well-documented scam](https://fraudpreventionunit.org/2021/07/21/watch-out-for-this-venmo-scam/). It's in the same family as [fake](https://web.archive.org/web/20220228013242/https://www.nytimes.com/2020/02/21/your-money/fake-check-scam.html) [check](https://www.consumer.ftc.gov/articles/how-spot-avoid-and-report-fake-check-scams) [scams](https://www.reddit.com/r/Scams/comments/t2xb0p/feels_like_a_check_scam_but_whats_the_end_goal/), although it is much easier to fall for the Venmo scam if you're not aware of it. Fake check scams are a subject of many posts on the [scams subreddit](https://www.reddit.com/r/Scams/).
@@ -79,6 +85,8 @@ See this footnote<sup id="fn2">[[2]](#f2)</sup> for information on how __freezin
 
 &nbsp;
 
+&nbsp;
+
 ## Simplify your investments, don't simplify your thinking
 
 Index funds are useful because they invest in a shifting collection of hundreds or thousands of securities, which would be an onerous task for anyone without access to institutional resources. They illustrate that simple solutions can be superior to complex solutions. There are expanding offerings for the ultimate simplification: all-in-one funds. They allow you to select a single fund based on allocation, such as 60% stocks and 40% bonds, and provide you with an automatically [rebalanced](https://www.investopedia.com/terms/r/rebalancing.asp), globally diversified assembly of stocks and bonds. There are all-in-one mutual funds from [Vanguard](https://investor.vanguard.com/investment-products/mutual-funds/life-strategy-funds) and [Schwab](https://www.schwab.com/mutual-funds/mutual-fund-portfolio/market-track-portfolios), as well as all-in-one ETFs from BlackRock with allocations of [80/20](https://www.ishares.com/us/products/239729/ishares-aggressive-allocation-etf), [60/40](https://www.ishares.com/us/products/239756/ishares-growth-allocation-etf), [40/60](https://www.ishares.com/us/products/239765/ishares-moderate-allocation-etf), and [30/70](https://www.ishares.com/us/products/239733/ishares-conservative-allocation-etf). Although using one of these is far better than not investing, they carry a hazard.
@@ -97,11 +105,15 @@ Target retirement funds are another type of all-in-one fund. They increase bond 
 
 &nbsp;
 
+&nbsp;
+
 ## Allocation and time horizon
 
 People with higher net worth relative to their financial needs have longer time horizons, and benefit from allocating more heavily to stocks. This can be illustrated with an extreme case. A person with $4 million in liquid net worth could withdraw [about 2.5% each year](https://www.youtube.com/watch?v=3BScK-QyWIo) — $100,000 in the first year before taxes — and live on these withdrawals indefinitely by holding a 100% stock portfolio. Not only would this person not deplete their assets, but because the withdrawals are conservative, the value of their investments would grow over the long run in virtually any plausible future stock market. Hopefully it is clear that for this person, seeking the supposed safety of bonds would encumber the long-term growth of their portfolio and make depletion of their assets _more_ likely.
 
 For the majority of Americans who are not multimillionaires, how can this principle be applied? If there is a portion of your savings you are reserving for the future and don’t plan to use for a number of years,<sup id="fn3">[[3]](#f3)</sup> on average you will benefit most by investing it in 100% stocks. (This does not imply that your stock allocation should be limited to long-term reserves.) For many people this description applies readily to a tax-advantaged retirement account. If you will not need to draw on your retirement funds in the next eight years, your retirement portfolio will have the strongest expected growth with 100% stocks. Any inclusion of bonds will attenuate its long-term value. For some this statement will seem obvious, but it is a widespread practice to include bonds in long-term retirement portfolios. The justification often does not seem to be that part of the money needs to be secure for potential premature access, but that the volatility of a 100% stock portfolio is emotionally uncomfortable.
+
+&nbsp;
 
 &nbsp;
 
@@ -140,6 +152,8 @@ These drawbacks of 401(k) investing imply that once you've maxed out 401(k) empl
 Finally, if charitable donations will be an important goal in your old age, traditional IRAs have a clear advantage over Roth IRAs. The untaxed contributions and investment earnings in your traditional IRA can be [donated tax-free](https://www.marketwatch.com/story/ira-charitable-rollover-provision-made-permanent-2015-12-25), whereas money in your Roth IRA has already been taxed and is ideally suited for personal spending. Your HSA is [poorly suited](https://www.marketwatch.com/story/what-are-the-rules-for-inheriting-an-hsa-2020-09-25) to charity as well as inheritance, so it's best used for personal spending after 65 if the amount exceeds anticipated health care spending. Your spouse can inherit your HSA with no tax paid — the funds are absorbed into their HSA — but any other personal beneficiary would have to pay tax on the full amount in the year of your death. If you donate to charity while you're alive using HSA funds, you still have to pay tax on those withdrawals. However, if the beneficiary of your HSA is a charity, there is no tax due when they receive the funds upon your death. Both traditional and Roth IRAs are better-suited to leave to children or other persons. None of these concerns should be a dominant influence on how much money you choose to spend or donate, but considering them will increase your wealth and the wealth of your beneficiaries.
 
 There is additional, highly important information on tax-advantaged accounts in the [section on taxes](https://github.com/investindex/Taxes#tax-advantaged-accounts). For various examples of how judicious use of taxable, tax-deferred, and tax-exempt accounts during working and retirement years can enhance the longevity of your portfolio, see chapter 10 of Larry Swedroe's [book on retirement](https://libgen.rs/search.php?req=Swedroe+Grogan+Your+Complete+Guide+to+a+Successful+and+Secure+Retirement&open=0&res=25&view=simple&phrase=1&column=def).
+
+&nbsp;
 
 &nbsp;
 
