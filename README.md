@@ -225,7 +225,7 @@ A final note: the credit bureaus are for-profit businesses. They're even publicl
 
 &nbsp;
 
-<sup id="f4"> 4 </sup> The only exception to this are employer contributions to a traditional 401(k). Employee contributions are subject to FICA taxes. [↩](#fn4)
+<sup id="f4"> 4 </sup> The only exception is _employer_ contributions to a traditional 401(k). Employee contributions are subject to FICA taxes. [↩](#fn4)
 
 &nbsp;
 
