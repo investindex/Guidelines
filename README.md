@@ -225,7 +225,7 @@ A final note: the credit bureaus are for-profit businesses. They're even publicl
 
 &nbsp;
 
-<sup id="f4"> 4 </sup> The only exception is _employer_ contributions to a traditional 401(k). Employee contributions are subject to FICA taxes. [↩](#fn4)
+<sup id="f4"> 4 </sup> The only exception is _employer_ contributions to a 401(k). Employee contributions are subject to FICA taxes. Even if your employer offers a Roth 401(k), employers do not contribute to your Roth 401(k). Employer contributions are made to your traditional account regardless of which plan you contribute to. [↩](#fn4)
 
 &nbsp;
 
