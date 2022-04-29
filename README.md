@@ -133,7 +133,7 @@ There are two exceptions. The first is if you're drowning in debt, barely able t
 
 The IRS offers a major tax credit to those with low income who contribute to retirement accounts. Read about the saver's credit [here](https://github.com/investindex/Taxes#savers-credit).
 
-TERMINOLOGY WARNING: Many people simply say "401(k)" with the implication of a traditional plan. Most 401(k) accounts _are_ traditional, which means they are tax-deferred accounts. But many employers also offer a Roth 401(k), so it can be important to specify whether you're referring to a traditional 401(k) or a Roth 401(k). One more gripe: please don't capitalize "Roth". It's not an acronym, it's named after [a US senator](https://en.wikipedia.org/wiki/William_Roth).
+TERMINOLOGY WARNING: Many people simply say "401(k)" with the implication of a traditional plan. Most 401(k) accounts _are_ traditional, which means they are tax-deferred accounts. But many employers also offer a Roth 401(k), so it can be important to specify whether you're referring to a traditional 401(k) or a Roth 401(k). One more gripe: please don't capitalize every letter of "Roth". It's not an acronym, it's named after [a US senator](https://en.wikipedia.org/wiki/William_Roth).
 
 #### Health savings accounts
 
