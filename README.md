@@ -225,7 +225,7 @@ Use more than one credit card, and don't rely on a single issuer for your credit
 
 Your account and routing numbers may seem like information that isn't very private. You freely provide them to your employer for direct deposit and to numerous other institutions for ACH transfers. The numbers are even printed on your checks in machine-readable block letters! This may give some people the wrong impression. Your account and routing numbers should be provided strictly on a need-to-know basis. You might notice that to pay your credit card bill, linking the bank account that pays the bill requires no authentication. This is how certain payments work in the US: all you need are those two numbers. While of course an unauthorized use of this information is illegal, I have tried to emphasize repeatedly that addressing fraud after it has occurred is perhaps 100-1000x more effortful than preventing it. Your account and routing numbers should never be posted publicly.
 
-For the interested reader, [Bits about Money](https://bam.kalzumeus.com/) is a weekly newsletter written by an industry professional that provides great explanations of the inner workings of banking and finance. He has a rousing guide to salary negotiation [here](https://www.kalzumeus.com/2012/01/23/salary-negotiation/). [↩](#fn2)
+For the interested reader, [Bits about Money](https://bam.kalzumeus.com/) is a great weekly newsletter written by an industry professional that explains the inner workings of banking and finance. He has a rousing guide to salary negotiation [here](https://www.kalzumeus.com/2012/01/23/salary-negotiation/). [↩](#fn2)
 
 &nbsp;
 
