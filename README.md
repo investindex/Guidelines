@@ -213,7 +213,13 @@ Someone might challenge this and say I haven't covered all the possibilities. Wh
 
 &nbsp;
 
-<sup id="f2"> 2 </sup> Footnote. [↩](#fn2)
+<sup id="f2"> 2 </sup> We've already covered locking your debit card, spending only with credit cards, turning on activity alerts, using two-factor authentication, using a digital wallet, keeping your devices locked, using unique passwords, going paperless, and minimizing use of ATMs (mainly for large deposits). In this footnote I'd like to add a few assorted pieces of advice.
+
+In 2019 _The New York Times_ published an article called "[Safe deposit boxes aren't safe](https://web.archive.org/web/20220313114645/https://www.nytimes.com/2019/07/19/business/safe-deposit-box-theft.html)". It reported on people who have lost extremely valuable items that were stored in safe deposit boxes, and how banks can successfully reject all liability for such losses. The article featured a watchmaker who lost millions of dollars in rare watches that he had entrusted to his bank's safe deposit boxes. He was quoted saying, “My impression about safe deposit boxes was that it was like you were putting things in Fort Knox." Many people make the same mistaken assumption.
+
+...
+
+[↩](#fn2)
 
 &nbsp;
 
