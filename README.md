@@ -63,9 +63,9 @@ __Go paperless__. Change your settings so that you minimize mail from your bank,
 
 To some people, focusing on security to this degree may seem like overkill. I'll simply say that these measures would have appeared paranoid to many people who became preventable victims of fraud. Like insurance, security measures are not meant to feel convenient or make you happy. Hopefully imagining the feelings of regret and stress that accompany a fraud investigation will motivate you to take the steps described here _before_ anything bad happens. Reading posts on the [personal finance subreddit](https://www.reddit.com/r/personalfinance/) by people requesting advice after being defrauded may serve as additional motivation.
 
-See this footnote<sup id="fn2">[[2]](#f2)</sup> for information on good banking practices, some of which are related to security and fraud prevention.
+See this footnote<sup id="fn2">[[2]](#f2)</sup> for info on good banking practices, some of which are related to security and fraud prevention.
 
-See this footnote<sup id="fn3">[[3]](#f3)</sup> for information on how __freezing your credit__ protects you.
+See this footnote<sup id="fn3">[[3]](#f3)</sup> for info on how __freezing your credit__ protects you.
 
 &nbsp;
 
