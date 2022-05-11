@@ -217,7 +217,11 @@ Someone might challenge this and say I haven't covered all the possibilities. Wh
 
 In 2019 _The New York Times_ published an article called "[Safe deposit boxes aren't safe](https://web.archive.org/web/20220313114645/https://www.nytimes.com/2019/07/19/business/safe-deposit-box-theft.html)". It reported on people who have lost extremely valuable items that were stored in safe deposit boxes, and how banks successfully reject liability for such losses. The article featured a watchmaker who lost millions of dollars in rare watches that he had entrusted to his bank's safe deposit boxes. He was quoted saying, “My impression about safe deposit boxes was that it was like you were putting things in Fort Knox." Many people make the same mistaken assumption.
 
-...
+Your account and routing numbers may seem like information that isn't very private. You freely provide them to your employer for direct deposit and to numerous other institutions for ACH transfers. The numbers are even printed on your checks in machine-readable block letters! This may give some people the wrong impression. Your account and routing numbers should be provided strictly on a need-to-know basis. You might notice that when you pay your credit card bill, linking the bank account that pays the bill requires no authentication. This is a feature of certain payments in the US. While of course an unauthorized use of your account and routing numbers is illegal, I have tried to emphasize repeatedly that addressing fraud after it has occurred is perhaps 100-1000x more effortful than preventing it. Your account and routing numbers should never be posted publicly.
+
+Use more than one bank account.
+
+For the interested reader, [Bits about Money](https://bam.kalzumeus.com/) is a weekly newsletter written by an industry professional that provides great explanations of the inner workings of banking and finance.
 
 [↩](#fn2)
 
