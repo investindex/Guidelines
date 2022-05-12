@@ -190,14 +190,6 @@ A final note: the credit bureaus are for-profit businesses. They're even publicl
 
 &nbsp;
 
-<sup id="f5"> 5 </sup> The only exception is _employer_ contributions to a 401(k). Employee contributions are subject to FICA taxes. Even if your employer offers a Roth 401(k), employers do not contribute to your Roth 401(k). Employer contributions are made to your traditional account regardless of which plan you contribute to. However, if [certain legislation](https://www.cnbc.com/2022/03/30/house-passes-secure-act-2point0-heres-what-it-means-for-your-retirement-.html) currently in Congress is passed, employers could be given the option of contributing to their employees' Roth 401(k) accounts. [↩](#fn5)
-
-&nbsp;
-
-<sup id="f6"> 6 </sup> Money in tax-advantaged accounts cannot legally be traded on [margin](https://www.investopedia.com/terms/m/margin.asp), so IRAs and HSAs are still less capable than a taxable brokerage account. A feature called limited margin is allowed, which allows you to re-use funds immediately instead of being subject to a two-day [settlement period](https://www.investopedia.com/terms/s/settlement_period.asp), as is required in a cash account. By design, limited margin does not permit use of borrowed funds. [↩](#fn6)
-
-&nbsp;
-
 &nbsp;
 
 &nbsp;
