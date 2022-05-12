@@ -8,7 +8,6 @@ Click to move to each section:
 * [Fraud prevention](https://github.com/investindex/Guidelines#fraud-prevention) - [banking footnote](https://github.com/investindex/Guidelines#f2) - [credit freeze footnote](https://github.com/investindex/Guidelines#f3)
 * [Simplify your investments, don't simplify your thinking](https://github.com/investindex/Guidelines#simplify-your-investments-dont-simplify-your-thinking)
 * [Allocation and time horizon](https://github.com/investindex/Guidelines#allocation-and-time-horizon)
-* [Summary](https://github.com/investindex/Guidelines#summary)
 
 &nbsp;
 
