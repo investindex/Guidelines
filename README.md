@@ -171,7 +171,7 @@ Don’t ignore the possibility of catastrophic loss — protect yourself. Consid
 
 The benefits of HSAs are:
 * A triple tax advantage: tax-deductible contributions, tax-free investment, and tax-free qualified distributions.
-* HSA contributions uniquely avoid FICA taxes when deposited through payroll deduction. Contributions to traditional IRAs and 401(k) accounts avoid only income tax; you still pay FICA taxes on that income.
+* HSA contributions uniquely avoid FICA taxes when deposited through payroll deduction. Contributions to traditional IRAs and employer contributions to traditional 401(k) accounts avoid only income tax.
 * The ability to spend on health care from your checking account (while getting credit card rewards if you use a credit card), and reimburse yourself from the HSA in the future. With enough reimbursible expenses incurred over time, your HSA becomes a tax-free investment account that you can [withdraw from if needed](https://www.hsaedge.com/2012/06/13/using-your-hsa-as-an-atm/) at any time, penalty- and tax-free.
 * The ability to withdraw penalty-free for non-medical reasons after age 65 (like a traditional IRA), but having still avoided FICA taxes on the front end. Investing in an HSA is strictly better than doing so in a traditional IRA unless (a) you withdraw the money prematurely, (b) you want to donate the money before death, (c) you plan to leave the money to a non-spousal person upon death, or (d) you're a [CA or NJ](https://github.com/investindex/Taxes#hsas) taxpayer.
 * Qualified distributions include health care expenses for your spouse and dependents. During old age, qualified distributions include paying for long-term care insurance premiums and most Medicare premiums.
