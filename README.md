@@ -154,6 +154,8 @@ Someone might challenge this and say I haven't covered all the possibilities. Wh
 
 &nbsp;
 
+#### Banking practices
+
 <sup id="f2"> 2 </sup> We've already covered locking your debit card, spending only with credit cards, turning on activity alerts, using two-factor authentication, using a digital wallet, keeping your devices locked, using unique passwords, going paperless, and minimizing use of ATMs (mainly for large deposits). In this footnote I'd like to add a few assorted pieces of advice.
 
 In 2019 _The New York Times_ published an article called "[Safe deposit boxes aren't safe](https://web.archive.org/web/20220313114645/https://www.nytimes.com/2019/07/19/business/safe-deposit-box-theft.html)". It reported on people who have lost extremely valuable items that were stored in safe deposit boxes, and how banks successfully reject liability for such losses. The article featured a watchmaker who lost millions of dollars in rare watches that he had entrusted to his bank's safe deposit boxes. He was quoted saying, “My impression about safe deposit boxes was that it was like you were putting things in Fort Knox." Many people make the same mistaken assumption.
@@ -171,6 +173,8 @@ Your account and routing numbers may seem like information that isn't very priva
 For the interested reader, [Bits about Money](https://bam.kalzumeus.com/) is a great weekly newsletter written by an industry professional that explains the inner workings of banking and finance. He has a rousing guide to salary negotiation [here](https://www.kalzumeus.com/2012/01/23/salary-negotiation/). [↩](#fn2)
 
 &nbsp;
+
+#### Credit freeze
 
 <sup id="f3"> 3 </sup> There are three main credit bureaus to which your credit-related information is reported: [Experian](https://www.experian.com), [Equifax](https://www.equifax.com), and [TransUnion](https://www.transunion.com). If you haven’t, you should create accounts with each and ensure that the credit information is accurate. Experian and Equifax have decent websites; TransUnion’s website is hellish and designed to extract money from you. TransUnion doesn't make it easy to learn this from their website, but the "TrueIdentity" feature is how you access information for free. Be aware that there are two proprietary algorithms for calculating credit scores: a FICO score and a VantageScore. The FICO score is predominant and it's the score you should be most concerned with; the VantageScore was created more recently and is not usually attended to by lenders. In addition, there are many variants of each score. Credit bureaus are also called credit reporting agencies (CRAs).
 
