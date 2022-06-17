@@ -31,7 +31,7 @@ Pay debt instead of holding bonds or cash, and pay high-interest debt instead of
 
 One other consideration is important. If needed, money invested in stocks or bonds can be easily liquidated. In contrast, a drawback of paying debt is that the decision can’t be easily reversed. The money is paid back, and would need to be borrowed again if you had an unexpected need for it. However, paying debt can be a very attractive equivalent of investing, as the footnote illustrates.
 
-Ensure you know the distinction between APR and APY; banks advertise APR for loans and APY for savings accounts.
+Ensure you know the distinction between APR and APY; banks advertise APR for loans and APY for savings accounts. You can convert between them and read an explanation [here](https://www.aprtoapy.com/).
 
 &nbsp;
 
