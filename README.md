@@ -192,7 +192,7 @@ A final note: the credit bureaus are for-profit businesses. They're even publicl
 
 &nbsp;
 
-<sup id="f4"> 4 </sup> How many years exactly? A weasel word, _number_, is used because there is no perfect answer. The historical evidence suggests that a five-year horizon is sufficient in a large majority of cases, while an eight-year horizon is very safe and will permit you to wait for a recovery from nearly any potential downturn. In US history, only the [Great Depression](https://github.com/investindex/Risk#f6) would violate this rule. You can make your portfolio more robust against long downturns by diversifying, as described in the [section on stock portfolios](https://github.com/investindex/Portfolio). [↩](#fn4)
+<sup id="f4"> 4 </sup> How many years exactly? A weasel word, _number_, is used because there is no perfect answer. The historical evidence suggests that a five-year horizon is sufficient in a large majority of cases, while an eight-year horizon is very safe and will permit you to wait for a recovery from nearly any potential downturn. In US history, only the [Great Depression](https://github.com/investindex/Risk#f5) would violate this rule. You can make your portfolio more robust against long downturns by diversifying, as described in the [section on stock portfolios](https://github.com/investindex/Portfolio). [↩](#fn4)
 
 &nbsp;
 
