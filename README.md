@@ -6,6 +6,7 @@ Click to move to each section:
 * [Minimize risk of catastrophic loss](https://github.com/investindex/Guidelines#minimize-risk-of-catastrophic-loss)
 * [Debt and investment](https://github.com/investindex/Guidelines#debt-and-investment)
 * [Fraud prevention](https://github.com/investindex/Guidelines#fraud-prevention) - [banking footnote](https://github.com/investindex/Guidelines#f2) - [credit freeze footnote](https://github.com/investindex/Guidelines#f3)
+* [Always designate beneficiaries](https://github.com/investindex/Guidelines#always-designate-beneficiaries)
 * [Simplify your investments, don't simplify your thinking](https://github.com/investindex/Guidelines#simplify-your-investments-dont-simplify-your-thinking)
 * [Allocation and time horizon](https://github.com/investindex/Guidelines#allocation-and-time-horizon)
 
@@ -84,7 +85,19 @@ In general, follow your gut: no one will ever award you money if you didn't ente
 &nbsp;
 
 If you conclude with confidence that someone has stolen your money or spent it fraudulently, it is best to file a police report as soon as possible. This alerts your bank to the gravity of the situation, and will encourage them not to drag their feet, for which they are notorious. If your fraud claims are unsuccessful, you may also want to file a report with the Consumer Financial Protection Bureau and/or the FBI.
+<!--
+&nbsp;
 
+&nbsp;
+
+## Always designate beneficiaries
+
+[Estate planning](https://www.investopedia.com/terms/e/estateplanning.asp) can get complicated, with jargon like "probate" and "irrevocable trust". It's a topic that is covered for only [a few paragraphs](https://github.com/investindex/Taxes#inheritance) in this guide. However, there is one simple action that everyone should take regardless of their age or expectation of death: designate beneficiaries for all of your financial accounts. This includes all bank accounts, brokerage accounts, employer-sponsored retirement accounts, health savings accounts, [employee stock ownership plans](https://www.investopedia.com/terms/e/esop.asp), US Treasury savings bonds, and life insurance (including insurance provided by your employer). Without needing to write a will, you can ensure that all of these accounts would be inherited by the right person or persons upon your death. In fact, beneficiaries named on an account supersede your will.
+
+If a beneficiary is named, the assets in that account can be transferred to the beneficiary (or beneficiaries) without need for any lawyers or courts. (Adding someone else as a joint owner of the account has the same effect.) There are some people who could transfer virtually everything of financial value through this process alone.
+
+It's also useful to have an "in case of death" document that your loved ones can access should you die. Although it seems unnecessary, in the event of unexpected death, it is extremely helpful to have a document that simply lists your financial accounts, any debt you owe, and any other information such as wishes for disposal of your body. You may also want to provide a method for a trusted person to access your passwords.
+-->
 &nbsp;
 
 &nbsp;
