@@ -100,6 +100,8 @@ If you conclude with confidence that someone has stolen your money or spent it f
 If a beneficiary is named, the assets in that account can be transferred to the beneficiary (or beneficiaries) without need for any lawyers or courts. (Adding someone else as a joint owner of the account has the same effect.) There are some people who could transfer virtually everything of financial value through this process alone.
 
 It's also useful to have an "in case of death" document that your loved ones can access should you die. Although it seems unnecessary, in the event of unexpected death, it is extremely helpful to have a document that simply lists your financial accounts, any debt you owe, and any other information such as wishes for disposal of your body. You may also want to provide a method for a trusted person to access your passwords.
+
+[This section](https://www.treasurydirect.gov/indiv/help/TDHelp/howdoi.htm) of the Treasury Direct website describes how to assign a beneficiary to your US Treasury savings bond, and [this post](https://thefinancebuff.com/split-savings-bond-multiple-beneficiaries.html) by the Finance Buff explains how to designate multiple beneficiaries if needed.
 -->
 &nbsp;
 
