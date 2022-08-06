@@ -1,6 +1,6 @@
 # Guidelines for financial planning
 
-There is no perfect distribution of stocks, bonds, and other assets. This depends on many factors. Health, age, debt, income, job security, marriage status, children (or plans to have them), risk tolerance, and your personal goals — these are only some of them. The broad goal here is to provide tools to assess what investments fit your situation. However, a few guidelines discussed below can be applied broadly, and we'll also cover important personal finance topics not directly related to investing.
+Here we'll cover a few investing topics as well as important personal finance topics not directly related to investing.
 
 Click to move to each section:
 * [Minimize risk of catastrophic loss](https://github.com/investindex/Guidelines#minimize-risk-of-catastrophic-loss)
@@ -141,7 +141,7 @@ It is a widespread practice to include bonds in long-term retirement portfolios.
 
 &nbsp;
 
-[Click here for the next section — Investing for retirement](https://github.com/investindex/Retirement)
+[Click here for the next section — Building a stock portfolio](https://github.com/investindex/Portfolio)
 
 &nbsp;
 
@@ -152,8 +152,8 @@ All sections:
 * [Thinking about risk](https://github.com/investindex/Risk)
 * [Tax-advantaged accounts](https://github.com/investindex/TaxAdv)
 * [Your psychology](https://github.com/investindex/Psychology)
-* [Guidelines for financial planning](https://github.com/investindex/Guidelines)
 * [Investing for retirement](https://github.com/investindex/Retirement)
+* [Guidelines for financial planning](https://github.com/investindex/Guidelines)
 * [Building a stock portfolio](https://github.com/investindex/Portfolio)
 * [Fund proposals](https://github.com/investindex/Fund/blob/main/README.md)
 * [Concerns for the small/large investor](https://github.com/investindex/Small)
