@@ -11,6 +11,7 @@ Click to move to each section:
 
 <!--
 * [Always designate beneficiaries](https://github.com/investindex/Guidelines#always-designate-beneficiaries)
+* [Rent or buy?](https://github.com/investindex/Guidelines#carefully-consider-whether-to-rent-or-buy)
 -->
 
 &nbsp;
