@@ -117,10 +117,10 @@ Index funds are useful because they invest in a shifting collection of hundreds 
 When you decide how much money to save and invest, you should consider why you are investing: retirement or other long-term goals, college tuition, a vacation, a down payment on a car or house. Assigning purposes to various portions of your money forces you to consider which investments are appropriate for each portion. All-in-one funds, on the other hand, may cause someone to vaguely reflect on the level of risk they desire, without ever thinking through how they would distribute each portion to specific buckets like stocks, long-term bonds, and short-term bonds. If stocks crash, they may realize their stock allocation was too heavy; or if stocks have a brilliant run-up, they may wish they hadn't held so much in bonds. Whatever degree of complexity you choose, ensure that your allocation will produce an acceptable outcome regardless of how the stock market behaves in the near future. The only way to do this is through deliberate planning, not vague assessment of your risk tolerance.
 
 I'll suggest the following outline depending on the time horizon for a given portion of someone's assets:
-* Less than 2 years: high-quality, short-term bonds + cash/money market fund 
-* 2-4 years: high-yield bonds + (mostly) high-quality, short- and intermediate-term bonds
-* 4-8 years: stocks + high-yield bonds + high-quality, intermediate- and long-term bonds
-* 8+ years: stocks + high-quality, long-term bonds
+* Less than 2 years: high-quality, short bonds + cash/money market fund 
+* 2-4 years: high-yield bonds + (mostly) high-quality, short and intermediate bonds
+* 4-8 years: stocks + high-yield bonds + high-quality, intermediate and long bonds
+* 8+ years: stocks + high-quality, long bonds
 
 As addressed in the topic below, this is a very general proposal and, as vague as it is, it is still not appropriate for everyone. Someone may also want to consider the maximium drawdown they're willing to tolerate. If they have savings assigned to uses in the next two years but they don't need every dollar, they may invest in an aggregate bond fund instead of a short-term bond fund, with awareness of the possibility that they will sell at a loss. Or if they have a time horizon of five years but they're willing to potentially sell at a loss, they could invest in a stock fund. On the other hand, if someone is highly risk-averse, even eight years is not enough to guarantee a positive return from risky assets like stocks and long-term bonds.
 
