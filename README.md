@@ -47,7 +47,7 @@ It is an article of faith for many people that owning a home is a pillar of long
 
 [These](https://www.youtube.com/watch?v=UuAZ4M9f_sM) [videos](https://www.youtube.com/watch?v=Uwl3-jBNEd4) from Ben Felix are great explanations that make most of the points below. He discusses the issue in more detail in a [podcast episode](https://www.youtube.com/watch?v=Rpm-zF9n5Bw&t=1474s). Keep in mind that when he mentions taxes, those are Canadian tax laws. When you sell a primary residence in the US, you pay tax on capital gains that exceed $250K (if you’re single) or $500K (if you’re married).
 
-We can consider the costs that a renter has to pay: rent, (usually) utilities, and possibly renter’s insurance for their personal property. Renter’s insurance is significantly less expensive than homeowner’s insurance, because it doesn’t cover the dwelling. One other tiny cost is that the security deposit is held by the landlord, and is not available for investment beyond the savings account it sits in. A homeowner also has to pay utilities, of course. There are several costs which homeowners have to bear that renters do not:
+A renter has to pay rent, (usually) utilities, and possibly renter’s insurance for their personal property. Renter’s insurance is significantly less expensive than homeowner’s insurance, because it doesn’t cover the dwelling. One other tiny cost is that the security deposit is held by the landlord, and is not available for investment beyond the savings account it sits in. A homeowner also has to pay utilities, of course. There are several costs which homeowners have to bear that renters do not:
 
 * High transaction costs when moving
 * Property tax
@@ -59,7 +59,7 @@ We can consider the costs that a renter has to pay: rent, (usually) utilities, a
 * Opportunity cost of home equity
 * More cash needed on hand before the purchase (for a down payment) and after (for emergency repairs)
 
-A common argument for the inherent inferiority of renting is that all the costs of ownership are implicitly passed on to the renter. But with a moment’s consideration, we can see that this isn’t entirely true. There are some costs that are very plausibly passed to the renter: property tax, insurance, HOA fees (or similar fees by another name), and maintenance costs.
+A common argument for the inherent inferiority of renting is that all the costs of ownership are implicitly passed on to the renter. But with a moment’s consideration, we can see that this isn’t entirely true. In addition to the prices of comparable units in the area, there are indeed some costs that are strong determinants of rent: property tax, insurance, HOA fees (or similar fees by another name), and maintenance costs.
 
 What about the high transaction costs? Buying or selling a home entails fees that total thousands of dollars and can reach into the low ten-thousands. If you sell a home when moving and buy a new one, you pay for two transactions. A landlord who keeps their property for long periods of time, which many do, does not pay frequent transaction costs. This leads to one of the chief advantages of renting, which is that a renter can move at much lower cost than an owner. If you're not planning to settle for many years, renting can become the superior choice due to transaction costs alone.
 
