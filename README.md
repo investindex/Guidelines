@@ -44,6 +44,42 @@ Ensure you know the distinction between APR and APY; banks advertise APR for loa
 
 &nbsp;
 
+## Carefully consider whether to own or rent your residence
+
+It is an article of faith for many people that owning a home is a pillar of long-term wealth and financial success. But anyone willing to do the math will find that renting is often a wise decision, regardless of whether you’re wealthy enough to buy. The right choice should be assessed instead of assumed. Slogans like “renting is throwing your money away” or “rent is paying someone else’s mortgage” reflect serious misconceptions.
+
+[These](https://www.youtube.com/watch?v=UuAZ4M9f_sM) [videos](https://www.youtube.com/watch?v=Uwl3-jBNEd4) from Ben Felix are great explanations that make most of the points below. He discusses the issue in more detail in a [podcast episode](https://www.youtube.com/watch?v=Rpm-zF9n5Bw&t=1474s). Keep in mind that when he mentions taxes, those are Canadian tax laws. When you sell a primary residence in the US, you pay tax on capital gains that exceed $250K (if you’re single) or $500K (if you’re married).
+
+We can consider the costs that a renter has to pay: rent, (usually) utilities, and possibly renter’s insurance for their personal property. Renter’s insurance is significantly less expensive than homeowner’s insurance, because it doesn’t cover the dwelling. One other tiny cost is that the security deposit is held by the landlord, and is not available for investment beyond the savings account it sits in. A homeowner also has to pay utilities, of course. There are several costs which homeowners have to bear that renters do not:
+
+* High transaction costs when moving
+* Property tax
+* Homeowner’s insurance
+* Maintenance and improvement, including surprise maintenance costs
+* Possible HOA fees
+* Possible mortgage interest
+* Idiosyncratic price risk of a single property
+* Opportunity cost of home equity
+* More cash needed on hand before the purchase (for a down payment) and after (for unexpected repairs)
+
+A common argument for the inherent inferiority of renting is that all the costs of ownership are implicitly passed on to the renter. But with a moment’s consideration, we can see that this isn’t entirely true. There are some costs that are very plausibly passed to the renter: property tax, insurance, HOA fees (or similar fees by another name), and maintenance costs.
+
+What about the high transaction costs? Buying or selling a home entails fees that total thousands of dollars and can reach into the low ten-thousands. If you sell a home when moving and buy a new one, you pay these costs twice. A landlord who keeps their property for long periods of time, which many do, does not pay frequent transaction costs. This leads to one of the chief advantages of renting, which is that a renter can move at much lower cost than an owner.
+
+The costs of basic maintenance can be cheaper for landlords because they have ongoing relationships with contractors and can benefit from economies of scale. A handyman who regularly services a large apartment building or many houses owned by a single company can potentially respond more quickly and charge less per job than someone you called to visit your house once. Landlords also bear the risk of unexpected, large repair costs. If you’re a homeowner, you’re responsible for keeping cash on hand in case of unexpected repairs, and for all the energy involved in arranging repairs (or doing them yourself). The need to keep more money in cash or low-risk investments lowers the expected return of a homeowner’s assets. This is also true in the years _preceding_ a home purchase: to preserve money for a down payment, future homeowners need to keep money in low-risk investments.
+
+With very small amounts of money, we can access a globally diversified portfolio of thousands of stocks or bonds by purchasing shares of a fund. But enormous amounts of money are required to diversify in directly owned real estate. This means that by purchasing a home, you’re exposing yourself to the general risk of residential real estate, as well as the idiosyncratic risks of your individual property. As with single stocks, it’s very hard to predict what the long-term appreciation of a single property will be. In the past few decades, property prices have skyrocketed in San Francisco and plummeted in Detroit. Can you predict which environment you’re buying a house in? I wouldn’t count on it. If housing prices in your city have appreciated rapidly in the recent past, that should provide no confidence that they will continue to do so.
+
+Most people don’t consider the opportunity cost of home equity. In fact, they think the ideal housing situation is to have a home that is completely paid off. From a psychological perspective, it may feel great to own a home with no debt. You can decide if that’s worth it to you. But we can illustrate why home equity has a cost. Let’s say we own a home worth $300K. We could keep the home, or we could sell it and switch to renting. If we sell it, we’ll pay some thousands in closing costs. We can then invest perhaps $280K in risky assets like a stock fund, which has much higher expected return than a house. By selling our house and investing in stocks while renting, we can surpass the net worth we would’ve had by keeping the house.
+
+This betrays many people’s intuitions about the merits of owning a home. It’s especially counterintuitive that a home with no mortgage has the highest opportunity cost. But that’s the nature of an opportunity cost: when you buy a home and lock up all that money in home equity, you sacrifice the greater potential gains from investing in assets with higher expected return. This is not an out-of-pocket cost that shows up on a bill, but you do pay it. It means that, in the long run, the net worth of a renter can easily keep up with or even exceed the net worth of a homeowner.
+
+There are numerous potential benefits to home ownership. One is that, practically, the kind of housing you want to live in may not be available to rent. If you’re searching in a rural area, you may have a hard time finding a three-bedroom house to rent. Moreover, some people love the feeling of owning their home, and the freedoms provided by not having a landlord. Many people would be willing to increase their housing costs in exchange for this benefit. But rather than acknowledge that owning a property can be more expensive than renting a similar property, people justify the costs with the idea that owning a home is a great investment. In my view, it’s much better to recognize that while home ownership is not guaranteed to be a great financial decision — even if you live in the same house for a long time — you may think that the freedom and stability provided by ownership are worth it.
+
+&nbsp;
+
+&nbsp;
+
 ## Fraud prevention
 
 Financial fraud is unfortunately a common occurrence. There are a number of simple actions and habits anyone can use to drastically lower the probability of being a victim of fraud.
