@@ -9,8 +9,10 @@ Click to move to each section:
 * [Fraud prevention](https://github.com/investindex/Guidelines#fraud-prevention) - [banking footnote](https://github.com/investindex/Guidelines#f2) - [credit freeze footnote](https://github.com/investindex/Guidelines#f3)
 * [Always designate beneficiaries](https://github.com/investindex/Guidelines#always-designate-beneficiaries)
 * [Simplify your investments, don't simplify your thinking](https://github.com/investindex/Guidelines#simplify-your-investments-dont-simplify-your-thinking)
-* [Allocation and time horizon](https://github.com/investindex/Guidelines#allocation-and-time-horizon)
 
+<!--
+* [Allocation and time horizon](https://github.com/investindex/Guidelines#allocation-and-time-horizon)
+-->
 &nbsp;
 
 ## Minimize risk of catastrophic loss
@@ -59,7 +61,7 @@ A renter has to pay rent, (usually) utilities, and possibly renter’s insurance
 * Opportunity cost of home equity
 * More cash needed on hand before the purchase (for a down payment) and after (for emergency repairs)
 
-A common argument for the inherent inferiority of renting is that all the costs of ownership are implicitly passed on to the renter. But with a moment’s consideration, we can see that this isn’t entirely true. In addition to the prices of comparable units in the area, there are indeed some costs that are strong determinants of rent: property tax, insurance, HOA fees (or similar fees by another name), and maintenance costs.
+A common argument for the inherent inferiority of renting is that all the costs of ownership are implicitly passed on to the renter. But with a moment’s consideration, we can see that this isn’t entirely true. In addition to the prices of comparable units in the area, there are indeed some costs that are strong determinants of rent: property tax, insurance, HOA fees (or similar fees by another name), and maintenance costs. But other costs are not like those.
 
 What about the high transaction costs? Buying or selling a home entails fees that total thousands of dollars and can reach into the low ten-thousands. If you sell a home when moving and buy a new one, you pay for two transactions. A landlord who keeps their property for long periods of time, which many do, does not pay frequent transaction costs. This leads to one of the chief advantages of renting, which is that a renter can move at much lower cost than an owner. If you're not planning to settle for many years, renting can become the superior choice due to transaction costs alone.
 
@@ -159,12 +161,12 @@ I'll suggest the following outline depending on the time horizon for a given por
 * 4-8 years: stocks + high-yield bonds + high-quality, intermediate and long bonds
 * 8+ years: stocks + high-quality, long bonds
 
-As addressed in the topic below, this is a very general proposal and, as vague as it is, it is still not appropriate for everyone. Someone may also want to consider the maximium drawdown they're willing to tolerate. If they have savings assigned to uses in the next two years but they don't need every dollar, they may invest in an aggregate bond fund instead of a short-term bond fund, with awareness of the possibility that they will sell at a loss. Or if they have a time horizon of five years but they're willing to potentially sell at a loss, they could invest in a stock fund. On the other hand, if someone is highly risk-averse, even eight years is not enough to guarantee a positive return from risky assets like stocks and long-term bonds.
+This is a very general proposal and, as vague as it is, it is still not appropriate for everyone. Someone may also want to consider the maximium drawdown they're willing to tolerate. If they have savings assigned to uses in the next two years but they don't need every dollar, they may invest in an aggregate bond fund instead of a short-term bond fund, with awareness of the possibility that they will sell at a loss. Or if they have a time horizon of five years but they're willing to potentially sell at a loss, they could invest in a stock fund. On the other hand, if someone is highly risk-averse, even eight years is not enough to guarantee a positive return from risky assets like stocks and long-term bonds.
 
 Another drawback of all-in-one asset allocation funds is that you can't choose to withdraw only from stocks or only from bonds. If you need money during a stock market downturn, you sell stocks at a loss by selling shares even if you'd like to sell only bonds. An easy way to remedy this is by investing in [VT](https://investor.vanguard.com/investment-products/etfs/profile/vt) and [BNDW](https://investor.vanguard.com/investment-products/etfs/profile/bndw) instead. This is still a very simple portfolio, but allows you to withdraw from the bond fund without selling stocks.
 
 Target retirement funds are another type of all-in-one fund. They increase bond allocation over time as investors gradually approach a given retirement year (e.g., [Vanguard Target Retirement Fund 2040](https://investor.vanguard.com/investment-products/mutual-funds/profile/vforx)). These are fine as a default investment in 401(k) accounts, but I don't encourage them for people who are willing to devote any time to investing. Deciding on a stock/bond allocation is a task most people can handle, especially those willing to read a guide like this. Allowing a default [glide path](https://www.investopedia.com/terms/g/glide-path.asp) to dictate your asset allocation is often not in your best interest. Moreover, be aware that target retirement funds are [not always sensitive](https://www.wsj.com/articles/vanguard-target-retirement-tax-bill-surprise-11642781228) to those using the fund in a taxable account. They may have large capital gains distributions to which their tax-advantaged 401(k) investors are indifferent. So even if you decide on a target retirement fund in your retirement account, __do not__ do so in a taxable account.
-
+<!--
 &nbsp;
 
 &nbsp;
@@ -176,7 +178,7 @@ People with higher net worth relative to their financial needs have longer time 
 For the majority of Americans who are not multimillionaires, how can this principle be applied? If there is a portion of your savings you are reserving for the future and don’t plan to use for a number of years,<sup id="fn4">[[4]](#f4)</sup> on average you will benefit most with a portfolio of 100% risky assets like stocks. (This does not imply that your stock allocation should be limited to long-term reserves.) For many people this description applies readily to a tax-advantaged retirement account. However, stocks are not the only risky asset with high expected return. High-quality bonds with high interest rate risk can act as a great diversifying asset to stocks. These bonds were described in the [section on risk](https://github.com/investindex/Risk) and specific portfolios are suggested in a [later section](https://github.com/investindex/Fund/blob/main/README.md).
 
 It is a widespread practice to include bonds in long-term retirement portfolios. These tend to be aggregate bond funds with significantly lower expected return than stock funds. The main justification for this, in my view, is that volatility is emotionally uncomfortable. If you can tolerate volatility, your investments with a long time horizon should be in stocks and — if interest rates are not terribly low — in long-term, high-quality bonds. The most extreme version of such bonds are those held by funds like [EDV](https://investor.vanguard.com/investment-products/etfs/profile/edv) and [GOVZ](https://www.ishares.com/us/products/315911/ishares-25%20-year-treasury-strips-bond-etf), which hold zero-coupon, long-term US Treasury bonds.
-
+-->
 &nbsp;
 
 [Click here for the next section — Building a stock portfolio](https://github.com/investindex/Portfolio)
