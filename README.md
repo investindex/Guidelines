@@ -59,7 +59,7 @@ A renter has to pay rent, (usually) utilities, and possibly renter’s insurance
 * Opportunity cost of home equity
 * More cash needed on hand before the purchase (for a down payment) and after (for emergency repairs)
 
-A common argument for the inherent inferiority of renting is that all the costs of ownership are implicitly passed on to the renter. It's assumed that because landlords buy properties with the goal of generating profit, renters are the exploited losers in the relationship. This description is quite incomplete. Let's consider the details of some of these costs.
+A common argument for the inherent inferiority of renting is that all the costs of ownership are implicitly passed on to the renter. It's assumed that because landlords buy properties with the goal of generating profit, renters are the exploited losers in a zero-sum game. This description is quite incomplete. Let's consider the details of some of the costs of housing.
 
 What about the __high transaction costs__? Buying or selling a home entails fees that total thousands of dollars and can reach into the low ten-thousands. If you sell a home when moving and buy a new one, you pay for two transactions. A landlord who keeps their property for long periods of time, which many do, does not pay frequent transaction costs. This leads to one of the chief advantages of renting, which is that a renter can move at much lower cost than an owner. If you're not planning to settle for many years, renting can become the superior choice due to transaction costs alone.
 
