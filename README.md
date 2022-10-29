@@ -232,7 +232,7 @@ Someone might challenge this and say I haven't covered all the possibilities. Wh
 
 &nbsp;
 
-<sup id="f3"> 3 </sup> If you decide to buy a residence with a person who's not your spouse or long-term partner, it is generally in everyone's best interest that the owners be [tenants in common](https://www.investopedia.com/terms/t/tenancy_in_common.asp) (TIC) rather than joint tenants. However, all tenants are usually still [jointly and severally liable](https://www.law.cornell.edu/wex/joint_and_several_liability) for the mortgage loan and property tax. [↩](#fn3)
+<sup id="f3"> 3 </sup> If you decide to buy a residence with a person who's not your spouse or long-term partner, it is generally in everyone's best interest that the owners be [tenants in common](https://www.investopedia.com/terms/t/tenancy_in_common.asp) (TIC) rather than joint tenants. However, all tenants are usually still [jointly and severally liable](https://www.law.cornell.edu/wex/joint_and_several_liability) for the mortgage loan and property tax. Buying a home with a friend or acquaintance is no joke. [↩](#fn3)
 
 &nbsp;
 
