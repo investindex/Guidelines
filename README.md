@@ -47,7 +47,7 @@ Ensure you know the distinction between APR and APY; banks advertise APR for loa
 
 It is an article of faith for many people that owning a home is a pillar of long-term wealth and a sign of financial success. But anyone willing to do the math will find that renting is often a wise decision, regardless of whether you’re wealthy enough to buy. The right choice for each individual situation should be assessed instead of assumed. Slogans like “renting is throwing your money away” or “rent is paying someone else’s mortgage” reflect serious misconceptions.
 
-A renter has to pay rent, (usually) utilities, and possibly renter’s insurance for their personal property. Renter’s insurance is significantly less expensive than homeowner’s insurance, because it doesn’t cover the dwelling. One other tiny cost is that the security deposit is held by the landlord, and is not available for investment beyond the savings account it sits in. A renter's costs are relatively predictable and easy to understand. A homeowner also has to pay utilities, of course. There are several costs and risks which homeowners have to bear that renters do not:
+A renter has to pay rent, (usually) utilities, and possibly renter’s insurance for their personal property. Renter’s insurance is significantly less expensive than homeowner’s insurance, because it doesn’t cover the dwelling. One other tiny cost is that the security deposit is held by the landlord, and is not available for investment beyond the savings account it sits in. A renter's costs are relatively predictable and easy to understand.<sup id="fn2">[[2]](#f2)</sup> A homeowner also has to pay utilities, of course. There are several costs and risks which homeowners have to bear that renters do not:
 
 * High transaction costs when moving
 * Property tax
@@ -71,7 +71,7 @@ Homeowners are quite aware of the cost of interest on their mortgage loan. But m
 
 This betrays many people’s intuitions about the merits of owning a home. It’s especially counterintuitive that a home with no remaining mortgage has the highest opportunity cost. But that’s the nature of an opportunity cost: when you buy a home and lock up all that money in home equity, you sacrifice the greater potential gains from investing in assets with higher expected return. This is not an out-of-pocket cost that shows up on a bill, but you do pay it. It means that the net worth of a renter can easily keep up with the net worth of a homeowner, _if_ the renter invests the money they would have spent on higher housing costs.
 
-One way to reduce housing costs is to __share common spaces__ with others, if you're willing to do so. Living spaces are more efficient with shared resources: the bathrooms, washer and dryer, kitchen, common room. Want to rent a multi-bedroom house with a few friends or strangers? That's relatively easy to start, and allows people to move in and out with flexibility. Want to buy a house with a few others? That is less flexible, more logistically difficult, and entails a lot of risk and [liability](https://www.law.cornell.edu/wex/joint_and_several_liability). Renting facilitates the use of multi-room units with common resources.
+One way to reduce housing costs is to __share common spaces__ with others, if you're willing to do so. Living spaces are more efficient with shared resources: the bathrooms, washer and dryer, kitchen, common room. Want to rent a multi-bedroom house with a few friends or strangers? That's relatively easy to start, and allows people to move in and out with flexibility. Want to buy a house with a few others? That is less flexible, more logistically difficult, and entails a lot of risk and liability.<sup id="fn3">[[3]](#f3)</sup> Renting facilitates the use of multi-room units with common resources.
 
 All of this amounts to an observation that landlords do not (and cannot) simply pass on costs and risks to tenants while adding some profit for themselves. Renting has potential benefits that can make it a better choice for some people during some parts of their lives (even if they can afford to own). Landlords are not engaged in a zero-sum relationship with their tenants.
 
@@ -111,9 +111,9 @@ __Go paperless__. Change your settings so that you minimize mail from your bank,
 
 To some people, focusing on security to this degree may seem like overkill. I'll simply say that these measures would have appeared paranoid to many people who became preventable victims of fraud. Like insurance, security measures are not meant to feel convenient or make you happy. Hopefully imagining the feelings of regret and stress that accompany a fraud investigation will motivate you to take the steps described here _before_ anything bad happens. Reading posts on the [personal finance subreddit](https://www.reddit.com/r/personalfinance/) by people requesting advice after being defrauded may serve as additional motivation.
 
-See this footnote<sup id="fn2">[[2]](#f2)</sup> for info on good banking practices, some of which are related to security and fraud prevention.
+See this footnote<sup id="fn4">[[4]](#f4)</sup> for info on good banking practices, some of which are related to security and fraud prevention.
 
-See this footnote<sup id="fn3">[[3]](#f3)</sup> for info on how __freezing your credit__ protects you.
+See this footnote<sup id="fn5">[[5]](#f5)</sup> for info on how __freezing your credit__ protects you.
 
 &nbsp;
 
@@ -185,9 +185,11 @@ Target retirement funds are another type of all-in-one fund. They increase bond 
 
 People with higher net worth relative to their financial needs have longer time horizons before they need the money for consumption, and benefit from allocating more heavily to risky assets. This can be illustrated with an extreme case. A person with $4 million in liquid net worth could withdraw [about 2.5% each year](https://www.youtube.com/watch?v=3BScK-QyWIo) — $100,000 in the first year before taxes — and live on these withdrawals indefinitely by holding a portfolio entirely composed of risky assets. Not only would this person not deplete their assets, but because the withdrawals are conservative, the value of their investments would grow over the long run in virtually any plausible future. Hopefully it is clear that for this person, seeking the supposed safety of low-risk bonds would encumber the long-term growth of their portfolio and make depletion of their assets _more_ likely.
 
-For the majority of Americans who are not multimillionaires, how can this principle be applied? If there is a portion of your savings you are reserving for the future and don’t plan to use for a number of years,<sup id="fn4">[[4]](#f4)</sup> on average you will benefit most with a portfolio of 100% risky assets like stocks. (This does not imply that your stock allocation should be limited to long-term reserves.) For many people this description applies readily to a tax-advantaged retirement account. However, stocks are not the only risky asset with high expected return. High-quality bonds with high interest rate risk can act as a great diversifying asset to stocks. These bonds were described in the [section on risk](https://github.com/investindex/Risk) and specific portfolios are suggested in a [later section](https://github.com/investindex/Fund/blob/main/README.md).
+For the majority of Americans who are not multimillionaires, how can this principle be applied? If there is a portion of your savings you are reserving for the future and don’t plan to use for a number of years,FOOTNOTE HERE on average you will benefit most with a portfolio of 100% risky assets like stocks. (This does not imply that your stock allocation should be limited to long-term reserves.) For many people this description applies readily to a tax-advantaged retirement account. However, stocks are not the only risky asset with high expected return. High-quality bonds with high interest rate risk can act as a great diversifying asset to stocks. These bonds were described in the [section on risk](https://github.com/investindex/Risk) and specific portfolios are suggested in a [later section](https://github.com/investindex/Fund/blob/main/README.md).
 
 It is a widespread practice to include bonds in long-term retirement portfolios. These tend to be aggregate bond funds with significantly lower expected return than stock funds. The main justification for this, in my view, is that volatility is emotionally uncomfortable. If you can tolerate volatility, your investments with a long time horizon should be in stocks and — if interest rates are not terribly low — in long-term, high-quality bonds. The most extreme version of such bonds are those held by funds like [EDV](https://investor.vanguard.com/investment-products/etfs/profile/edv) and [GOVZ](https://www.ishares.com/us/products/315911/ishares-25%20-year-treasury-strips-bond-etf), which hold zero-coupon, long-term US Treasury bonds.
+
+FOOTNOTE: How many years exactly? A weasel word, _number_, is used because there is no perfect answer. The historical evidence suggests that a five-year horizon is sufficient in a large majority of bear markets, while an eight-year horizon is much safer and will permit you to wait for a recovery from nearly any potential downturn. In US history, only the [Great Depression](https://github.com/investindex/Risk#f5) would violate this rule. You can make your portfolio more robust against long downturns by diversifying, as described in the [section on stock portfolios](https://github.com/investindex/Portfolio). 
 -->
 &nbsp;
 
@@ -226,7 +228,15 @@ Someone might challenge this and say I haven't covered all the possibilities. Wh
 
 &nbsp;
 
-<sup id="f2"> 2 </sup> <b> Banking practices </b>
+<sup id="f2"> 2 </sup> These expenses assume a renter is in a typical lease rather than another arrangement like a [triple net lease](https://www.investopedia.com/terms/t/triple-net-lease-nnn.asp). [↩](#fn2)
+
+&nbsp;
+
+<sup id="f3"> 3 </sup>  [↩](#fn3)
+
+&nbsp;
+
+<sup id="f4"> 4 </sup> <b> Banking practices </b>
 
 We've already covered locking your debit card, spending only with credit cards, turning on activity alerts, using two-factor authentication, using a digital wallet, keeping your devices locked, using unique passwords, going paperless, and minimizing use of ATMs (mainly for large deposits). In this footnote I'd like to add a few assorted pieces of advice.
 
@@ -242,11 +252,11 @@ Use more than one credit card, and don't rely on a single issuer for your credit
 
 Your account and routing numbers may seem like information that isn't very private. You freely provide them to your employer for direct deposit and to numerous other institutions for ACH transfers. The numbers are even printed on your checks in machine-readable block letters! This may give some people the wrong impression. Your account and routing numbers should be provided strictly on a need-to-know basis. You might notice that to pay your credit card bill, linking the bank account that pays the bill requires no authentication. This is how certain payments work in the US: [all you need](https://www.reddit.com/r/personalfinance/comments/v5vfdp/ive_been_using_someone_elses_bank_for_over_8/) are those two numbers. While of course an unauthorized use of this information is illegal, I have tried to emphasize repeatedly that addressing fraud after it has occurred is perhaps 100-1000x more effortful than preventing it. Your account and routing numbers should never be posted publicly. There are also job scams that pretend to hire you and collect information that a legitimate employer would need. This might include account and routing numbers, as well as your SSN, address, phone number, date of birth, previous employers, and other data that help an identity thief.
 
-For the interested reader, [Bits about Money](https://bam.kalzumeus.com/) is a great weekly newsletter written by an industry professional that explains the inner workings of banking and finance. His post on [how credit cards make money](https://bam.kalzumeus.com/archive/how-credit-cards-make-money/) is relevant here. He has a rousing guide to salary negotiation [here](https://www.kalzumeus.com/2012/01/23/salary-negotiation/). [↩](#fn2)
+For the interested reader, [Bits about Money](https://bam.kalzumeus.com/) is a great weekly newsletter written by an industry professional that explains the inner workings of banking and finance. His post on [how credit cards make money](https://bam.kalzumeus.com/archive/how-credit-cards-make-money/) is relevant here. He has a rousing guide to salary negotiation [here](https://www.kalzumeus.com/2012/01/23/salary-negotiation/). [↩](#fn4)
 
 &nbsp;
 
-<sup id="f3"> 3 </sup> <b> Credit freeze </b>
+<sup id="f5"> 5 </sup> <b> Credit freeze </b>
 
 There are three main credit bureaus to which your credit-related information is reported: [Experian](https://www.experian.com), [Equifax](https://www.equifax.com), and [TransUnion](https://www.transunion.com). If you haven’t, you should create accounts with each and ensure that the credit information is accurate. Experian and Equifax have decent websites; TransUnion’s website is hellish and designed to extract money from you. TransUnion doesn't make it easy to learn this from their website, but the "TrueIdentity" feature is how you access information for free. Be aware that there are two proprietary algorithms for calculating credit scores: a FICO score and a VantageScore. The FICO score is predominant and it's the score you should be most concerned with; the VantageScore was created more recently and is not usually attended to by lenders. In addition, there are many variants of each score. Credit bureaus are also called credit reporting agencies (CRAs).
 
@@ -260,11 +270,7 @@ You need to unfreeze only when a party with whom you do _not_ have a pre-existin
 
 Upon reading this you may again question how necessary it is. Why would someone steal _my_ identity? I’m no one special. I don’t have enemies. Let me emphasize that identity thieves don’t need to have ever encountered you personally. They may have [stolen your data](https://en.wikipedia.org/wiki/2017_Equifax_data_breach) from a credit bureau, a bank, an insurance company, a brokerage firm, an employer, a landlord, or one of the other parties to which you’ve supplied your precious Social Security number. Not having much money doesn’t make you an undesirable target; you may be _more_ desirable because you lack the resources to pursue identity thieves with expensive legal procedures. In response to the charge of paranoia, I will simply state again that pre-emptive action is less bothersome than a fraud investigation after some stranger has saddled you with thousands of dollars of debt in an account with your name on it.
 
-A final note: the credit bureaus are for-profit businesses. They're even publicly listed: see [TRU](https://finance.yahoo.com/quote/TRU), [EFX](https://finance.yahoo.com/quote/EFX), [EXPN.L](https://finance.yahoo.com/quote/EXPN.L). All three, and especially TransUnion, will try to get you to pay them. Products range from "credit lock" to programs that claim to help you boost your credit. I don't suggest paying them for anything; however appealing the products may sound, everything you need is available for free. If you feel inclined to take one of their credit card recommendations (for which they're paid), be sure to research the alternatives first. [↩](#fn3)
-
-&nbsp;
-
-<sup id="f4"> 4 </sup> How many years exactly? A weasel word, _number_, is used because there is no perfect answer. The historical evidence suggests that a five-year horizon is sufficient in a large majority of bear markets, while an eight-year horizon is much safer and will permit you to wait for a recovery from nearly any potential downturn. In US history, only the [Great Depression](https://github.com/investindex/Risk#f5) would violate this rule. You can make your portfolio more robust against long downturns by diversifying, as described in the [section on stock portfolios](https://github.com/investindex/Portfolio). [↩](#fn4)
+A final note: the credit bureaus are for-profit businesses. They're even publicly listed: see [TRU](https://finance.yahoo.com/quote/TRU), [EFX](https://finance.yahoo.com/quote/EFX), [EXPN.L](https://finance.yahoo.com/quote/EXPN.L). All three, and especially TransUnion, will try to get you to pay them. Products range from "credit lock" to programs that claim to help you boost your credit. I don't suggest paying them for anything; however appealing the products may sound, everything you need is available for free. If you feel inclined to take one of their credit card recommendations (for which they're paid), be sure to research the alternatives first. [↩](#fn5)
 
 &nbsp;
 
