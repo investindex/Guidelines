@@ -47,7 +47,7 @@ Ensure you know the distinction between APR and APY; banks advertise APR for loa
 
 It is an article of faith for many people that owning a home is a pillar of long-term wealth and a sign of financial success. But anyone willing to do the math will find that renting is often a wise decision, regardless of whether you’re wealthy enough to buy. The right choice for each individual situation should be assessed instead of assumed. Slogans like “renting is throwing your money away” or “rent is paying someone else’s mortgage” reflect serious misconceptions.
 
-A renter has to pay rent, (usually) utilities, and possibly renter’s insurance for their personal property. Renter’s insurance is significantly less expensive than homeowner’s insurance, because it doesn’t cover the dwelling. One other tiny cost is that the security deposit is held by the landlord, and is not available for investment beyond the savings account it sits in. A renter's costs are relatively predictable and easy to understand.<sup id="fn2">[[2]](#f2)</sup> A homeowner also has to pay utilities, of course. There are several costs and risks which homeowners have to bear that renters do not:
+A renter has to pay rent, (usually) utilities, and possibly renter’s insurance for their personal property. Renter’s insurance is significantly less expensive than homeowner’s insurance, because it doesn’t cover the dwelling. One other tiny cost is that the security deposit is held by the landlord, and is not available for investment beyond the savings account it sits in. A renter's costs are relatively predictable and easy to understand.<sup id="fn2">[[2]](#f2)</sup> In addition to utilities, there are several costs and risks which homeowners have to bear that renters do not:
 
 * High transaction costs when moving
 * Property tax
@@ -232,7 +232,7 @@ Someone might challenge this and say I haven't covered all the possibilities. Wh
 
 &nbsp;
 
-<sup id="f3"> 3 </sup>  [↩](#fn3)
+<sup id="f3"> 3 </sup> If you decide to buy a residence with a person who's not your spouse or long-term partner, it is generally in everyone's best interest that the owners be [tenants in common](https://www.investopedia.com/terms/t/tenancy_in_common.asp) (TIC) rather than joint tenants. However, all tenants are usually still [jointly and severally liable](https://www.law.cornell.edu/wex/joint_and_several_liability) for the mortgage loan and property tax. [↩](#fn3)
 
 &nbsp;
 
