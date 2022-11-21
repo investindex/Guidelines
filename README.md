@@ -85,6 +85,18 @@ None of this should be interpreted as an argument in favor of renting. Neither r
 
 The tax laws he discusses are Canadian. When you [sell a primary residence](https://www.fidelity.com/learning-center/personal-finance/capital-gains-on-residence) in the US, you pay tax on capital gains that exceed $250K (if you’re single) or $500K (if you’re married). If a married couple bought a house for $1M, documented $100K of improvement over ten years, and sold it for $2M, they would owe tax on $400K in capital gains. The $100K of improvements would increase the tax basis from $1M to $1.1M, and the $500K capital gains exclusion means that they would pay tax on only $400K of the $900K capital gain. They did regular maintenance on the house, but that didn't increase their basis because only improvement counts. For the $500K capital gains exclusion to apply, the house must have been their primary residence for at least two of the five years before selling. The [section on taxes](https://github.com/investindex/Taxes) describes how capital gains are taxed, and its second footnote outlines potential tax advantages of home ownership.
 
+#### Home ownership = building wealth?
+
+Why do many people think owning their home is so important?
+
+(1) A mortgage enforces discipline. Many people struggle with the habit of saving money. There are no immediate consequences for a renter who stops contributing to their 401(k). But a mortgage gives someone no choice but to keep paying every month and building equity in an asset that will probably appreciate.
+
+(2) Investing in stocks and bonds used to be far less accessible. For many people in (say) 1960, buying a home was the easiest way to purchase an asset that was likely to appreciate. Even though it’s now easy to build a diversified, low-cost portfolio of publicly traded assets, many people feel that owning a home is still central to building wealth.
+
+(3) People sell their homes at higher prices than the purchase price 10 or 20 years prior, and think the difference between the two illustrates what a sound investment their home was. They often don’t remember to subtract all the money they spent on maintenance and improvement, property tax, insurance, and so on. And almost no one considers the opportunity cost of home equity.
+
+(4) They think that renting is nothing but a loser’s game that makes someone else rich. People don’t like to be ripped off. Hopefully I’ve complicated that narrative.
+
 &nbsp;
 
 &nbsp;
