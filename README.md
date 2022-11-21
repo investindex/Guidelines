@@ -95,7 +95,7 @@ Why do many people think owning their home is so important?
 
 (3) People sell their homes at higher prices than the purchase price 10 or 20 years prior, and think the difference between the two illustrates what a sound investment their home was. They often don’t remember to subtract all the expenses, and almost no one considers the opportunity cost of home equity.
 
-(4) They think that renting is nothing but a loser’s game that makes someone else rich. People don’t like to be ripped off. Hopefully I’ve complicated that narrative.
+(4) They think that renting is nothing but a loser’s game that makes someone else rich. Some people will work hard to get on any rung of the "[property ladder](https://en.wikipedia.org/wiki/Property_ladder)". Hopefully I’ve complicated the narrative that renting is losing and owning is winning.
 
 &nbsp;
 
