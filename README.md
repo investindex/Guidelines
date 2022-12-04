@@ -91,7 +91,7 @@ The tax laws he discusses are Canadian. When you [sell a primary residence](http
 
 Why do many people think owning their home is so important?
 
-(1) A mortgage enforces discipline. Many people struggle with the habit of saving and investing money. There are no immediate consequences for someone who stops contributing to their 401(k). But a mortgage gives someone no choice but to keep paying every month and building equity in an asset that will probably appreciate.
+(1) A mortgage enforces discipline. Many people struggle with the habit of saving and investing money. There are no immediate consequences for someone who stops contributing to their investment portfolio. But a mortgage gives someone no choice but to keep paying every month and building equity in an asset that will probably appreciate.
 
 (2) Investing in stocks, bonds, and other liquid assets used to be far less accessible. For many people in (say) 1960, buying a home was the easiest way to purchase an asset that was likely to appreciate. Even though it’s now easy to build a diversified, low-cost portfolio of publicly traded assets, many people feel that owning a home is still central to securing personal wealth.
 
