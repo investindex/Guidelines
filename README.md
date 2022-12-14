@@ -95,9 +95,9 @@ Why do many people think owning their home is so important?
 
 (2) Investing in stocks, bonds, and other liquid assets used to be far less accessible. For many people in (say) 1960, buying a home was the easiest way to purchase an asset that was likely to appreciate. Even though it’s now easy to build a diversified, low-cost portfolio of publicly traded assets, many people feel that owning a home is still central to securing personal wealth.
 
-(3) People sell their homes at higher prices than the purchase price 10 or 20 years prior, and think the difference between the two illustrates what a sound investment their home was. They often don’t remember to subtract all the expenses, and almost no one considers the opportunity cost of home equity.
+(3) People often sell their homes at higher prices than the purchase price 10 or 20 years prior, and think the difference between the two illustrates what a sound investment their home was. They often don’t remember to subtract all the expenses, and almost no one considers the opportunity cost of home equity.
 
-(4) They think that renting is nothing but a loser’s game that makes someone else rich. Some people will work hard to get on any rung of the "[property ladder](https://en.wikipedia.org/wiki/Property_ladder)". Hopefully I’ve complicated the narrative that renting is losing and owning is winning.
+(4) They think that renting is nothing but a loser’s game that makes someone else rich. To avoid squandering money on rent, some people will work hard to get on any rung of the "[property ladder](https://en.wikipedia.org/wiki/Property_ladder)". Hopefully I’ve complicated the narrative that renting is losing and owning is winning.
 
 &nbsp;
 
