@@ -238,7 +238,7 @@ All sections:
 
 Footnotes:
 
-<sup id="f1"> 1 </sup> This person's need for life insurance isn't constant over the 30-year period. As they (hopefully) build wealth over time, their loved ones can inherit more money from them directly, so they don't need to pay for as much life insurance. This person could (say) buy $500K of insurance for a 30-year term, $500K for a 20-year term, and $500K for a 10-year term. They'll have $1.5M of insurance for the first ten years, $1.0M for the next ten years, and $500K for the final ten years. [↩](#fn1)
+<sup id="f1"> 1 </sup> This person's need for life insurance isn't constant over the 30-year period. As they (hopefully) build wealth over time, their loved ones can count on inheriting more money from them directly, so they don't need to pay for as much life insurance. This person could (say) buy $500K of insurance for a 30-year term, $500K for a 20-year term, and $500K for a 10-year term. They'll have $1.5M of insurance for the first ten years, $1.0M for the next ten years, and $500K for the final ten years. [↩](#fn1)
 
 &nbsp;
 
