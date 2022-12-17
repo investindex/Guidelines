@@ -6,7 +6,7 @@ Click to move to each section:
 * [Minimize risk of catastrophic loss](https://github.com/investindex/Guidelines#minimize-risk-of-catastrophic-loss)
 * [Debt and investment](https://github.com/investindex/Guidelines#debt-and-investment)
 * [Rent or buy?](https://github.com/investindex/Guidelines#carefully-consider-whether-to-own-or-rent-your-residence)
-* [Fraud prevention](https://github.com/investindex/Guidelines#fraud-prevention) - [banking footnote](https://github.com/investindex/Guidelines#f4) - [credit freeze footnote](https://github.com/investindex/Guidelines#f5)
+* [Fraud prevention](https://github.com/investindex/Guidelines#fraud-prevention) - [banking footnote](https://github.com/investindex/Guidelines#f5) - [credit freeze footnote](https://github.com/investindex/Guidelines#f6)
 * [Always designate beneficiaries](https://github.com/investindex/Guidelines#always-designate-beneficiaries)
 * [Simplify your investments, don't simplify your thinking](https://github.com/investindex/Guidelines#simplify-your-investments-dont-simplify-your-thinking)
 
