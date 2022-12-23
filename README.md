@@ -45,7 +45,7 @@ Ensure you know the distinction between APR and APY; banks advertise APR for loa
 
 ## Carefully consider whether to own or rent your residence
 
-It is an article of faith for many people that owning a home is a pillar of long-term wealth and a sign of financial success. But anyone willing to do the math will find that renting is often a wise decision, regardless of whether you’re wealthy enough to buy. The right choice for each individual situation should be assessed instead of assumed. Slogans like “renting is throwing your money away” or “rent is paying someone else’s mortgage” reflect serious misconceptions.
+It is an article of faith for many people that owning a home is a pillar of long-term wealth and a sign of financial success. But anyone willing to do the math will find that renting can be a wise decision, regardless of whether you’re wealthy enough to buy. The right choice for each individual situation should be assessed instead of assumed. Slogans like “renting is throwing your money away” or “rent is paying someone else’s mortgage” reflect serious misconceptions.
 
 A renter has to pay rent, (usually) utilities, and possibly renter’s insurance for their personal property. Renter’s insurance is significantly less expensive than homeowner’s insurance, because it doesn’t cover the dwelling. One other tiny cost is that the security deposit is held by the landlord, and is not available for investment beyond the savings account it sits in. A renter's costs are relatively predictable and easy to understand.<sup id="fn3">[[3]](#f3)</sup> Aside from utilities, there are several costs and risks which homeowners have to bear that renters do not:
 
