@@ -93,7 +93,7 @@ Why do many people think owning their home is so important?
 
 (1) A mortgage enforces discipline. Many people struggle with the habit of saving and investing money. There are no immediate consequences for someone who stops contributing to their investment portfolio. A mortgage gives someone no choice but to keep paying every month and building equity in an asset that will probably appreciate.
 
-(2) Investing in stocks, bonds, and other liquid assets used to be far less accessible. For many people in (say) 1960, buying a home was the easiest way to purchase an asset that was likely to appreciate. Even though it’s now easy to build a diversified, low-cost portfolio of publicly traded assets, many people feel that owning a home is still central to securing personal wealth.
+(2) Investing in stocks, bonds, and other liquid assets used to be less accessible and charge much higher fees. For many people in (say) 1970, buying a home was the easiest way to purchase an asset that was likely to appreciate. Even though it’s now easy to build a diversified, low-cost portfolio of publicly traded assets, many people feel that owning a home is still central to securing personal wealth.
 
 (3) People usually sell their homes at higher prices than the purchase price 10 or 20 years prior, and think the difference between the two illustrates what a sound investment their home was. They often don’t remember to subtract all the expenses, and almost no one considers the opportunity cost of home equity.
 
