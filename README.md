@@ -25,7 +25,7 @@ If anyone else depends on your future income, purchasing life insurance is a way
 
 Finally, your most basic financial priority should be to build or maintain an [emergency fund](https://www.youtube.com/watch?v=vftjBTjFlzI) after paying off credit card debt. Because [Series I savings bonds](https://github.com/investindex/Risk#us-treasury-savings-bonds) have no downside risk, they can be a great location for your emergency fund after the one-year lockup period. Savings accounts and high-quality, short-term bonds can also serve this purpose.
 
-Many people don’t take these actions or, if their finances are chronically strained, are unable to. But be aware that if you neglect to protect yourself, there will be an ever-present risk of financial ruin. Insurance may seem like a waste of money when times are good, but never forget that unpredictable, unavoidable events can shatter your life in an instant. Nothing can bankrupt you faster than expensive tragedies like a health crisis without health insurance.
+Many people don’t take these actions or, if their finances are chronically strained, are unable to. But if you neglect to protect yourself, there will be an ever-present risk of financial ruin. Insurance may seem like a waste of money when times are good, but never forget that unpredictable, unavoidable events can shatter your life in an instant. Nothing can bankrupt you faster than expensive tragedies like a health crisis without health insurance.
 
 &nbsp;
 
