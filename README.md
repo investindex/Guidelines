@@ -173,7 +173,7 @@ Naming beneficiaries and creating an "in case of death" document are only the fi
 
 A last will is [surprisingly easy](https://www.youtube.com/watch?v=99-RjX5VVhs) to write on your own if your wishes are simple; you may not need to hire an attorney. Speaking broadly, the minimum requirements are that you: 
 
-* Identify yourself and declare the document your last will and testament. Write that you revoke all your prior wills and codicils. "I, William Willwriter — born 1 January 1980 in New York, NY and currently residing at [full address] — declare this document to be my last will and testament. I expressly revoke all my prior wills and codicils."
+* Identify yourself and declare the document your last will and testament. Revoke all your prior wills and codicils. "I, William Willwriter — born 1 January 1980 in New York, NY and currently residing at [full address] — declare this document to be my last will and testament. I expressly revoke all my prior wills and codicils."
 
 * Identify the primary beneficiaries of your estate and what portions of your estate they will inherit. It could be as simple as leaving your entire estate to one person, or equal portions to two people. Or you may want to leave specific items to someone. "I leave all of my estate to Benjamin Willwriter, who is my brother, whose date of birth is 1 January 1980, and who currently resides at [full address]."
 
