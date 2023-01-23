@@ -175,7 +175,7 @@ A last will is [surprisingly easy](https://www.youtube.com/watch?v=99-RjX5VVhs) 
 
 * Identify yourself and declare the document your last will and testament. Write that you revoke all your prior wills and codicils. "I, William Willwriter — born 1 January 1980 in New York, NY and currently residing at [full address] — declare this document to be my last will and testament. I expressly revoke all my prior wills and codicils."
 
-* Identify the primary beneficiaries of your estate and what portions of your estate they will inherit (it could be as simple as leaving your entire estate to one person, or equal portions to two people). "I leave all of my estate to Ben Willwriter, who is my brother, whose date of birth is 1 January 1980, and who currently resides at [full address]."
+* Identify the primary beneficiaries of your estate and what portions of your estate they will inherit. It could be as simple as leaving your entire estate to one person, or equal portions to two people. "I leave all of my estate to Ben Willwriter, who is my brother, whose date of birth is 1 January 1980, and who currently resides at [full address]."
 
 * Identify the executor you'd like to appoint. "I appoint Rachel Wiseperson — whose date of birth is 1 April 1985, and whose current residence is [full address] — to serve as Executor of my estate. The Executor will serve without bond." Serving without bond means that the executor need not post their own money as bond, to compensate beneficiaries should the executor abuse or neglect their position. Most people choose a trusted person as their executor, and feel no need to make them post bond, although some states require it.
 
