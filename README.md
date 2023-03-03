@@ -6,6 +6,7 @@ Click to move to each section:
 * [Minimize risk of catastrophic loss](https://github.com/investindex/Guidelines#minimize-risk-of-catastrophic-loss)
 * [Debt and investment](https://github.com/investindex/Guidelines#debt-and-investment)
 * [Rent or buy?](https://github.com/investindex/Guidelines#carefully-consider-whether-to-own-or-rent-your-residence)
+* [Focus on financial weak points](https://github.com/investindex/Guidelines#focus-on-financial-weak-points)
 * [Fraud prevention](https://github.com/investindex/Guidelines#fraud-prevention) - [banking footnote](https://github.com/investindex/Guidelines#f5) - [credit freeze footnote](https://github.com/investindex/Guidelines#f6)
 * [Always designate beneficiaries](https://github.com/investindex/Guidelines#always-designate-beneficiaries)
 * [Simplify your investments, don't simplify your thinking](https://github.com/investindex/Guidelines#simplify-your-investments-dont-simplify-your-thinking)
@@ -98,6 +99,34 @@ Why do many people think owning their home is so important?
 (3) People usually sell their homes at higher prices than the purchase price 10 or 20 years prior, and think the difference between the two illustrates what a sound investment their home was. They typically don’t subtract (or even record) all the expenses, and almost no one considers the opportunity cost of home equity.
 
 (4) They think that renting is nothing but a loser’s game that makes someone else rich. To avoid squandering money on rent, some people will work hard to get on any rung of the "[property ladder](https://en.wikipedia.org/wiki/Property_ladder)". Hopefully I’ve complicated the narrative that renting is losing and owning is winning.
+
+&nbsp;
+
+&nbsp;
+
+## Focus on financial weak points
+
+# Earning more vs. spending less
+
+Saving is the foundation of building wealth, and these are the two main ways to save more money. Which is more important? It depends on your current weaknesses.
+
+Take Alex on one end of the spectrum: he earns hundreds of thousands per year, yet has little savings and relies on the next paycheck to pay his bills. He sometimes carries credit card debt and has no idea where all his money goes. He has an expensive car but doesn’t really enjoy it. He doesn't ever shop around for better deals on his largest expenses. Alex needs to focus on tracking his spending, making a budget, and deciding how to reduce his expenses in ways that are best for him. Earning more should not be the priority, because he’s currently the kind of person who spends an entire raise instead of taking the opportunity to save more.
+
+Alternatively, Taylor makes $15/hr and is highly frugal. She tracks her spending categories in a spreadsheet and knows how much she tends to spend in each category. She frequently reviews what spending she might want to cut, shops at multiple stores to keep track of where the best prices are, and has multiple credit cards with high rewards in various categories. She has a roommate to keep housing expenses low, she keeps the temperature a little uncomfortable to save on utilities, and sometimes declines fun opportunities like restaurants and trips because of their cost. She owns a used Toyota Corolla and the A/C broke a year ago, but that’s fine. Taylor needs to focus on increasing her income without fully surrendering her frugality. This could be done with more education, self-teaching or apprenticeship, or simply finding higher-paying jobs that she can already do. With better pay, she can save more money every month while doing more of what she enjoys.
+
+Are you more like Alex or Taylor? Could you increase your savings each month more easily by improving your earnings or reducing your expenses? Consider this and focus your energy accordingly.
+
+# Earning more vs. investing better
+
+Combined with proper judgment, greater knowledge of investing can potentially lead to higher returns. Let’s contrast another pair of people.
+
+Martha is 60 years old and has $3 million in liquid assets. She earns a $100,000 annual salary in a senior position and would find it difficult to greatly increase her pay beyond this level. If she improves her investment returns this year by 3 percentage points — either by increasing gains or reducing losses — she’ll be $90,000 richer. For Martha, learning how to invest more effectively is worth a great deal! Expending effort on a 5% or 10% raise would be less lucrative.
+
+Michael is 24 years old and has an investment portfolio of $15,000. He makes $50,000 annually in a junior position. If he improves his returns by 3 percentage points this year, he’ll be $450 richer! Nice, but not much compared to a significant increase in earned income. If he can secure a $10,000 raise, that would blow away any likely gain from spending more time learning to invest.
+
+Are you more like Michael or Martha? Where should you focus your efforts at this point in life? Of course, there are good reasons for people who haven’t accrued great wealth to understand investing. If you commit to a whole life insurance policy as soon as you start earning decent income, you’ve locked yourself into a wealth-destroying scam that you can’t easily exit once you’ve learned better. Your lowest-earning years are the most tax-efficient time to contribute to Roth retirement accounts, and you wouldn’t want to remain ignorant of this for long.
+
+If you’re great at X, your energy is not best directed by figuring out how to squeeze a little more benefit out of X. Concentrate on Y instead.
 
 &nbsp;
 
