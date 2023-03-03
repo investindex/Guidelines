@@ -106,7 +106,7 @@ Why do many people think owning their home is so important?
 
 ## Focus on financial weak points
 
-# Earning more vs. spending less
+#### Earning more vs. spending less
 
 Saving is the foundation of building wealth, and these are the two main ways to save more money. Which is more important? It depends on your current weaknesses.
 
@@ -116,7 +116,7 @@ Alternatively, Taylor makes $15/hr and is highly frugal. She tracks her spending
 
 Are you more like Alex or Taylor? Could you increase your savings each month more easily by improving your earnings or reducing your expenses? Consider this and focus your energy accordingly.
 
-# Earning more vs. investing better
+#### Earning more vs. investing better
 
 Combined with proper judgment, greater knowledge of investing can potentially lead to higher returns. Let’s contrast another pair of people.
 
