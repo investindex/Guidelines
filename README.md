@@ -98,7 +98,7 @@ This comparison leads to the 5% rule, a simplified guideline which suggests that
 | :--: | :--: | :--: | :--: | :--: |
 | iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii | iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii | iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii | iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii | iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii |
 
-| &emsp; Home price &emsp; | &emsp; 20% down &emsp; | Annual costs @ 4% | Annual costs @ 5% | Annual costs @ 6% |
+| &emsp; Home price &emsp; | &nbsp; &nbsp; &nbsp; 20% down &nbsp; &nbsp; &nbsp; | Annual costs @ 4% | Annual costs @ 5% | Annual costs @ 6% |
 | :--: | :--: | :--: | :--: | :--: |
 | $500K | $100K | $35,416 | $38,267 | $41,278 |
 
