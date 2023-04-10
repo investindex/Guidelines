@@ -100,11 +100,11 @@ This comparison leads to the 5% rule, a simplified guideline which suggests that
 
 | &emsp; Home price &emsp; | &emsp; 20% down &emsp; | Annual costs @ 4% | Annual costs @ 5% | Annual costs @ 6% |
 | :--: | :--: | :--: | :--: | :--: |
-| iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii | iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii | iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii | iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii | iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii |
+| $500K | $100K | $35,416 | $38,267 | $41,278 |
 
 &nbsp;
 
-<!-- &nbsp; &ensp; &emsp; | $500K | $100K | $35,416 | $38,267 | $41,278 | -->
+<!-- &nbsp; &ensp; &emsp; -->
 
 The tax laws he discusses are Canadian. When you [sell a primary residence](https://www.fidelity.com/learning-center/personal-finance/capital-gains-on-residence) in the US, you pay tax on capital gains that exceed $250K (if you’re single) or $500K (if you’re married). If a married couple bought a house for $1M, documented $100K of improvement over ten years, and sold it for $2M, they would owe tax on $400K in capital gains. The $100K of improvements would increase the tax basis from $1M to $1.1M, and the $500K capital gains exclusion means that they would pay tax on only $400K of the $900K capital gain. They did regular maintenance on the house, but that didn't increase their basis because only improvement counts. For the $500K capital gains exclusion to apply, the house must have been their primary residence for at least two of the five years before selling. The [section on taxes](https://github.com/investindex/Taxes) describes how capital gains are taxed, and its second footnote outlines potential tax advantages of home ownership.
 
