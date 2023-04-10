@@ -88,9 +88,7 @@ None of this should be interpreted as an argument in favor of renting. Neither r
 
 This comparison leads to the 5% rule, a simplified guideline which suggests that renting is advantageous if your annual rent is less than 5% of a similar property's purchase price. In Ben Felix's formulation, 3 percentage points arise from the difference in expected return between a home and a stock portfolio (the opportunity cost), and 2 points arise from the explicit unrecoverable costs like insurance. In my view, 2% is a low guideline for unrecoverable costs. Property tax alone is 1% on average and can range as high as 3% in some counties! You would need to live in an area with low property tax to have any chance of staying under 2%. Clearly, adjustment of the 5% rule is needed depending on the characteristics of each property.
 
-Here's a table providing a sense of housing costs if you buy a home with a 30-year mortgage and assume 2.5% annual costs from property tax, insurance, maintenance, and so on. Interest rates on the mortgage vary between 4% and 6%.
-
-&nbsp;
+Here's a table providing a sense of housing costs if you buy a home with a 30-year mortgage and assume 2.5% annual costs from property tax, insurance, maintenance, and so on. Interest rates on the mortgage vary between 4% and 6%, and the down payment is an above-average 20%.
 
 <p align="center">
   <b>Affording a 30-year mortgage with 20% down, 2.5% annual costs, and 4-6% interest rates</b>
@@ -104,10 +102,6 @@ Here's a table providing a sense of housing costs if you buy a home with a 30-ye
 | $500K | $100K | $35,416 | $38,267 | $41,278 |
 | $1.0M | $200K | $70,832 | $76,535 | $82,557 |
 | $2.0M | $400K | $141,664 | $153,070 | $165,114 |
-
-&nbsp;
-
-<!-- &nbsp; &ensp; &emsp; -->
 
 The tax laws Ben Felix discussed are Canadian. When you [sell a primary residence](https://www.fidelity.com/learning-center/personal-finance/capital-gains-on-residence) in the US, you pay tax on capital gains that exceed $250K (if you’re single) or $500K (if you’re married). If a married couple bought a house for $1M, documented $100K of improvement over ten years, and sold it for $2M, they would owe tax on $400K in capital gains. The $100K of improvements would increase the tax basis from $1M to $1.1M, and the $500K capital gains exclusion means that they would pay tax on only $400K of the $900K capital gain. They did regular maintenance on the house, but that didn't increase their basis because only improvement counts. For the $500K capital gains exclusion to apply, the house must have been their primary residence for at least two of the five years before selling. The [section on taxes](https://github.com/investindex/Taxes) describes how capital gains are taxed, and its second footnote outlines potential tax advantages of home ownership.
 
