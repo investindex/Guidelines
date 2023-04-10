@@ -94,7 +94,7 @@ This comparison leads to the 5% rule, a simplified guideline which suggests that
   <b>Affording a 30-year mortgage</b>
 </p>
 
-| iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii | iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii | iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii | iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii | iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii |
+| iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii | iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii | iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii | iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii | iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii |
 | :--: | :--: | :--: | :--: | :--: |
 | Home price | 20% down | Annual costs @ 4% | Annual costs @ 5% | Annual costs @ 6% |
 | $500K | $100K | $35,416 | $38,267 | $41,278 |
