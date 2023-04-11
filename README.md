@@ -46,7 +46,7 @@ Ensure you know the distinction between APR and APY; banks advertise APR for loa
 
 &nbsp;
 
-## Carefully consider whether to own or rent your residence
+## Carefully consider whether to buy or rent your residence
 
 It is an article of faith for many people that owning a home is a pillar of long-term wealth and a sign of financial success. But anyone willing to do the math will find that renting can be a wise decision, regardless of whether you’re wealthy enough to buy. The right choice for each individual situation should be assessed instead of assumed. Slogans like “renting is throwing your money away” or “rent is paying someone else’s mortgage” reflect serious misconceptions.
 
@@ -107,13 +107,13 @@ Here's a table providing a sense of explicit housing costs if you buy a home wit
 
 &nbsp;
 
-The tax laws Ben Felix discussed are Canadian. When you [sell a primary residence](https://www.fidelity.com/learning-center/personal-finance/capital-gains-on-residence) in the US, you pay tax on capital gains that exceed $250K (if you’re single) or $500K (if you’re married). If a married couple bought a house for $1M, documented $100K of improvement over ten years, and sold it for $2M, they would owe tax on $400K in capital gains. The $100K of improvements would increase the tax basis from $1M to $1.1M, and the $500K capital gains exclusion means that they would pay tax on only $400K of the $900K capital gain. They did regular maintenance on the house, but that didn't increase their basis because only improvement counts. For the $500K capital gains exclusion to apply, the house must have been their primary residence for at least two of the five years before selling. The [section on taxes](https://github.com/investindex/Taxes) describes how capital gains are taxed, and its second footnote outlines potential tax advantages of home ownership.
+The tax laws Ben Felix discussed are Canadian. When you [sell a primary residence](https://www.fidelity.com/learning-center/personal-finance/capital-gains-on-residence) in the US, you pay tax on capital gains that exceed $250K (if you’re single) or $500K (if you’re married). If a married couple bought a house for $1M, documented $100K of improvement over 15 years, and sold it for $2M, they would owe tax on $400K in capital gains. The $100K of improvements would increase the tax basis from $1M to $1.1M, and the $500K capital gains exclusion means that they would pay tax on only $400K of the $900K capital gain. They did regular maintenance on the house, but that didn't increase their basis because only improvement counts. For the $500K capital gains exclusion to apply, the house must have been their primary residence for at least two of the five years before selling. The [section on taxes](https://github.com/investindex/Taxes) describes how capital gains are taxed, and its second footnote outlines potential tax advantages of home ownership.
 
 #### Home ownership = building wealth?
 
 Why do many people think owning their home is so important?
 
-(1) A mortgage enforces discipline. Many people struggle with the habit of saving and investing money. There are no immediate consequences for someone who stops contributing to their investment portfolio. A mortgage gives someone no choice but to keep paying every month and building equity in an asset that will probably appreciate. It's also more motivating to pursue a goal with a natural endpoint — pay off the mortgage — than to simply build wealth. You can mitigate this by committing to savings or net worth goals, especially if you link particular purchases to meeting these goals.
+(1) A mortgage enforces discipline. Many people struggle with the habit of saving and investing money. There are no immediate consequences for someone who stops contributing to their investment portfolio. A mortgage gives someone no choice but to keep paying every month and building equity in an asset that will probably appreciate. Separately, it may be more motivating to pursue a goal with a natural endpoint — pay off the mortgage — than to simply build wealth. If you're a renter, you can mitigate this by committing to savings or net worth goals, especially if you link particular purchases to meeting these goals.
 
 (2) Investing in stocks, bonds, and other liquid assets used to be less accessible and carry much higher fees. For many people in (say) 1970, buying a home was the easiest way to purchase an asset that was likely to appreciate. Even though it’s now easy to build a diversified, low-cost portfolio of publicly traded assets, many people feel that owning a home is still central to securing personal wealth.
 
