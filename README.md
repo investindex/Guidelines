@@ -90,7 +90,7 @@ None of this should be interpreted as an argument in favor of renting. Neither r
 
 This comparison leads to the [5% rule](https://www.youtube.com/watch?v=Uwl3-jBNEd4), a simplified guideline which suggests that renting is advantageous if your annual rent is less than 5% of a similar property's purchase price. In Ben Felix's formulation, 3 percentage points arise from the cost of capital, and 2 points arise from the explicit unrecoverable costs like insurance. 2% is a pretty low guideline for those costs. Property tax alone is 1% on average and can range as high as 3% in some counties! You would need to live in an area with low property tax to have any chance of staying under 2%. Clearly, adjustments to the 5% rule are needed depending on the characteristics of each property.
 
-Here's a table providing a sense of explicit housing costs if you buy a home with a 30-year, fixed-rate mortgage and assume 2.5% annual costs from property tax, insurance, maintenance, and so on. These costs are separate from the principal and interest payments. The figures below add up those annual expenses. Interest rates on the mortgage vary between 4% and 6%, and the down payment is a standard (but above-average) 20%.
+Here's a table providing a sense of explicit housing expenses if you buy a home with a 30-year, fixed-rate mortgage and assume 2.5% annual costs from property tax, insurance, maintenance, and so on. These costs are separate from the principal and interest payments. The numbers below combine all those annual expenses. Interest rates on the mortgage vary between 4% and 6%, and the down payment is a standard (but above-average) 20%.
 
 <p align="center">
   <b>Affording a 30-year mortgage with 20% down, 2.5% annual costs, and 4-6% interest rates</b>
