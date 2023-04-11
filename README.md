@@ -96,7 +96,7 @@ Here's a table providing a sense of explicit housing costs if you buy a home wit
   <b>Affording a 30-year mortgage with 20% down, 2.5% annual costs, and 4-6% interest rates</b>
 </p>
 
-| &emsp; Home price &emsp; | &nbsp; &nbsp; &nbsp; 20% down &nbsp; &nbsp; &nbsp; | Annual costs @ 4% | Annual costs @ 5% | Annual costs @ 6% |
+| &ensp; Home price &ensp; | &nbsp; &nbsp; 20% down &nbsp; &nbsp; | Annual expenses @ 4% | Annual expenses @ 5% | Annual expenses @ 6% |
 | :--: | :--: | :--: | :--: | :--: |
 | $200K | $40K | $14,166 | $15,307 | $16,511 |
 | $300K | $60K | $21,250 | $22,960 | $24,767 |
