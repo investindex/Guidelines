@@ -5,7 +5,7 @@ Here we'll cover a few investing topics as well as important personal finance to
 Click to move to each section:
 * [Minimize risk of catastrophic loss](https://github.com/investindex/Guidelines#minimize-risk-of-catastrophic-loss)
 * [Debt and investment](https://github.com/investindex/Guidelines#debt-and-investment)
-* [Rent or buy?](https://github.com/investindex/Guidelines#carefully-consider-whether-to-buy-or-rent-your-residence)
+* [Rent or buy?](https://github.com/investindex/Guidelines#carefully-consider-whether-to-rent-or-buy-your-residence)
 * [Focus on financial weak points](https://github.com/investindex/Guidelines#focus-on-financial-weak-points)
 * [Fraud prevention](https://github.com/investindex/Guidelines#fraud-prevention) - [banking footnote](https://github.com/investindex/Guidelines#f5) - [credit freeze footnote](https://github.com/investindex/Guidelines#f6)
 * [Always designate beneficiaries](https://github.com/investindex/Guidelines#always-designate-beneficiaries)
@@ -61,7 +61,7 @@ Ensure you know the distinction between APR and APY; banks advertise APR for loa
 
 &nbsp;
 
-## Carefully consider whether to buy or rent your residence
+## Carefully consider whether to rent or buy your residence
 
 It is an article of faith for many people that owning a home is a pillar of long-term wealth and a sign of financial success. But anyone willing to do the math will find that renting can be a wise decision, regardless of whether you’re wealthy enough to buy. The right choice for each individual situation should be assessed instead of assumed. Slogans like “renting is throwing your money away” or “rent is paying someone else’s mortgage” reflect serious misconceptions.
 
@@ -106,7 +106,7 @@ None of this should be interpreted as an argument in favor of renting. Neither r
 
 As a renter, all costs are unrecoverable: rent, utilities, and possibly renter's insurance. An owner's home improvements and principal payments are recoverable costs, because those expenses have an associated residual value — even though selling the home doesn't mean they'll recover _all_ the money they paid. An owner also has many unrecoverable costs: utilities, property tax, maintenance, HOA fees, homeowner's insurance, and the cost of capital: mortgage interest plus the opportunity cost of not investing in stocks. Transaction costs are a one-time unrecoverable cost. Most unrecoverable costs persist even after you've paid off the mortgage; they never go away.
 
-So unrecoverable costs can be understood as a kind of rent you pay to own a home. We can add up the unrecoverable costs of renting and buying to establish a basis for comparison. Ben Felix has suggested the [5% rule](https://www.youtube.com/watch?v=Uwl3-jBNEd4), a simplified guideline which suggests that renting is advantageous if your annual rent is less than 5% of a similar property's purchase price. In Ben Felix's formulation, 2 percentage points of unrecoverable cost arise from expenses like insurance, and 3 points arise from the cost of capital. 2% is a pretty low guideline for the first category. Property tax alone is 1% on average and can range as high as 3% in some counties! You would need to live in an area with low property tax to have any chance of staying under 2%. HOA fees can also exceed 1%, especially in multi-unit buildings with amenities. Clearly, adjustments to the 5% rule are needed depending on the characteristics of each property. The 3% premium for investing in stocks can also differ depending on your portfolio and how your gains are taxed.
+So unrecoverable costs can be understood as a kind of rent you pay to own a home. We can add up the unrecoverable costs of renting and buying to establish a basis for comparison. Ben Felix has suggested the [5% rule](https://www.youtube.com/watch?v=Uwl3-jBNEd4), a simplified guideline which suggests that renting is advantageous if your annual rent is less than 5% of a similar property's purchase price. In Ben Felix's formulation, 2 percentage points of unrecoverable cost arise from expenses like insurance, and 3 points arise from the cost of capital. 2% is a pretty low guideline for the first category. Property tax alone is 1% on average and can range as high as 3% in some counties! HOA fees can be less than 1%, but can range [above 3%](https://www.nytimes.com/interactive/2023/02/23/realestate/studio-apartment-brooklyn-ny.html) in multi-unit buildings with amenities. If you buy a condo in a building with a parking garage, a gym, or a doorman, be prepared to pay high fees every month for as long as you own it. In my view, 2% is on the low end of estimates for that category of unrecoverable costs. Clearly, adjustments to the 5% rule are needed depending on the characteristics of each property. The 3% premium for investing in stocks can also differ depending on your portfolio and how your gains are taxed.
 
 Here's a table providing a sense of out-of-pocket housing expenses if you buy a home with a 30-year, fixed-rate mortgage and assume 2.5% annual costs from property tax, maintenance, and so on. These costs are separate from the principal and interest payments. The numbers below combine all those annual expenses. Interest rates on the mortgage vary between 4% and 6%, and the down payment is a standard (but above-average) 20%.
 
