@@ -5,8 +5,7 @@ Here we'll cover a few investing topics as well as important personal finance to
 Click to move to each section:
 * [Minimize risk of catastrophic loss](https://github.com/investindex/Guidelines#minimize-risk-of-catastrophic-loss)
 * [Debt and investment](https://github.com/investindex/Guidelines#debt-and-investment)
-* [Rent or buy?](https://github.com/investindex/G
-uidelines#carefully-consider-whether-to-rent-or-buy-your-residence)
+* [Rent or buy?](https://github.com/investindex/Guidelines#carefully-consider-whether-to-rent-or-buy-your-residence)
 * [Focus on financial weak points](https://github.com/investindex/Guidelines#focus-on-financial-weak-points)
 * [Fraud prevention](https://github.com/investindex/Guidelines#fraud-prevention) - [banking footnote](https://github.com/investindex/Guidelines#f5) - [credit freeze footnote](https://github.com/investindex/Guidelines#f6)
 * [Always designate beneficiaries](https://github.com/investindex/Guidelines#always-designate-beneficiaries)
