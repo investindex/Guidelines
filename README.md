@@ -37,7 +37,7 @@ If part of your plan for emergency money in a crisis would be to sell assets lik
 * Who else can help you pay expenses if you need it? How likely are they to be financially squeezed at the same time as you are?
 * Do you have health problems that could, at some point, reduce your ability to earn income for an extended period?
 * Could you take on extra work, including gig work, if you needed to? Potential obstacles are kids and health problems.
-* Do you rent or own your home? Renters have more predictable expenses within the term of their lease, and can downsize their housing expenses more easily when changing leases.
+* Do you rent or own your home? Renters have more predictable expenses within the term of their lease, and may be able to downsize their housing expenses at lower cost.
 
 If you have a long-term partner or spouse, all these considerations need to be placed in the context of your combined finances. Only after you've built an emergency fund should you start investing in risky assets. The peace of mind provided by a stable foundation will make it easier to tolerate the volatility of your long-term portfolio.
 
