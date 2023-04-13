@@ -42,7 +42,7 @@ As with stocks, it’s very hard to predict what the asset class return of real 
 
 Homeowners are quite aware of the cost of interest on their mortgage loan. But most people don’t consider the __opportunity cost of home equity__. The prevailing view is that it's ideal to own your home outright. Certainly, it may feel great to own a home with no debt, and you can decide if that’s worth it to you. But we can illustrate why home equity has an [opportunity cost](https://en.wikipedia.org/wiki/Opportunity_cost). Let’s say we own a home worth $300K. We could keep the home, or we could sell it and switch to renting. If we sell it, we’ll pay some thousands in closing costs. We can then invest perhaps $280K in risky assets like a stock fund, which has much higher expected return than a home.
 
-This betrays many people’s intuitions about the merits of owning a home. It’s especially counterintuitive that a home with no remaining mortgage has the highest opportunity cost. But that’s the nature of an opportunity cost: when you buy a home and lock up all that money in home equity, you sacrifice the greater potential gains from investing in assets with higher expected return. This is not an out-of-pocket cost that shows up on a bill, but you do pay it. It means that the net worth of a renter can easily keep up with the net worth of a homeowner, _if_ the renter invests the money they would have spent on higher housing costs.
+This betrays many people’s intuitions about the merits of owning a home. It’s especially counterintuitive that a home with no remaining mortgage has the highest opportunity cost. But that’s the nature of an opportunity cost: when you buy a home and lock up all that money in home equity, you sacrifice the greater potential gains from investing in assets with higher expected return. This is not an out-of-pocket expense that shows up on a bill, but it is a real cost. It means that the net worth of a renter can easily keep up with the net worth of a homeowner, _if_ the renter invests the money they would have spent on higher housing costs.
 
 One way to reduce housing costs is to __share common spaces__ with others, if you're willing to do so. Living spaces are more efficient with shared resources: the bathrooms, washer and dryer, kitchen, common room. Want to rent a multi-bedroom house with a few people, or share a two-bedroom condo with a friend? That's relatively easy to start, and allows people to move in and out with flexibility. Want to _buy_ a home with others? That is less flexible, more logistically difficult, and entails a lot of risk and liability.<sup id="fn2">[[2]](#f2)</sup> Renting facilitates the use of multi-room units with common resources.
 
@@ -329,7 +329,7 @@ All sections:
 
 Footnotes:
 
-<sup id="f1"> 1 </sup> These expenses assume a renter is in a typical lease rather than another arrangement like a [triple net lease](https://www.investopedia.com/terms/t/triple-net-lease-nnn.asp). [↩](#fn1)
+<sup id="f1"> 1 </sup> These expenses assume a renter is in a typical lease rather than, say, a [triple net lease](https://www.investopedia.com/terms/t/triple-net-lease-nnn.asp). [↩](#fn1)
 
 &nbsp;
 
