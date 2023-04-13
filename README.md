@@ -7,7 +7,7 @@ Click to move to each section:
 * [Focus on financial weak points](https://github.com/investindex/Guidelines#focus-on-financial-weak-points)
 * [Minimize risk of catastrophic loss](https://github.com/investindex/Guidelines#minimize-risk-of-catastrophic-loss)
 * [Pay debt or invest?](https://github.com/investindex/Guidelines#pay-debt-or-invest)
-* [Fraud prevention](https://github.com/investindex/Guidelines#fraud-prevention) - [banking footnote](https://github.com/investindex/Guidelines#f5) - [credit freeze footnote](https://github.com/investindex/Guidelines#f6)
+* [Fraud prevention](https://github.com/investindex/Guidelines#fraud-prevention) - [banking footnote](https://github.com/investindex/Guidelines#f6) - [credit freeze footnote](https://github.com/investindex/Guidelines#f7)
 * [Always designate beneficiaries](https://github.com/investindex/Guidelines#always-designate-beneficiaries)
 * [Simplify your investments, don't simplify your thinking](https://github.com/investindex/Guidelines#simplify-your-investments-dont-simplify-your-thinking)
 
