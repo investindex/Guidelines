@@ -3,65 +3,17 @@
 Here we'll cover a few investing topics as well as important personal finance topics not directly related to investing.
 
 Click to move to each section:
-* [Minimize risk of catastrophic loss](https://github.com/investindex/Guidelines#minimize-risk-of-catastrophic-loss)
-* [Debt and investment](https://github.com/investindex/Guidelines#debt-and-investment)
-* [Rent or buy?](https://github.com/investindex/Guidelines#carefully-consider-whether-to-rent-or-buy-your-residence)
+* [Rent or buy?](https://github.com/investindex/Guidelines#carefully-consider-whether-to-rent-or-buy-your-home)
 * [Focus on financial weak points](https://github.com/investindex/Guidelines#focus-on-financial-weak-points)
+* [Minimize risk of catastrophic loss](https://github.com/investindex/Guidelines#minimize-risk-of-catastrophic-loss)
+* [Pay debt or invest?](https://github.com/investindex/Guidelines#pay-debt-or-invest)
 * [Fraud prevention](https://github.com/investindex/Guidelines#fraud-prevention) - [banking footnote](https://github.com/investindex/Guidelines#f5) - [credit freeze footnote](https://github.com/investindex/Guidelines#f6)
 * [Always designate beneficiaries](https://github.com/investindex/Guidelines#always-designate-beneficiaries)
 * [Simplify your investments, don't simplify your thinking](https://github.com/investindex/Guidelines#simplify-your-investments-dont-simplify-your-thinking)
 
-<!--
-* [Allocation and time horizon](https://github.com/investindex/Guidelines#allocation-and-time-horizon)
--->
 &nbsp;
 
-## Minimize risk of catastrophic loss
-
-First: _always_ have insurance for extremely valuable physical assets like your car and home, as well as health insurance. Even if your car has low value, liability coverage is vital for car insurance. Without it, you could find yourself paying the medical bills of someone you injured in a car accident. Understand the coverage you’re entitled to, so that you’re not subject to surprise denials. Once you’ve achieved some financial stability, seriously consider purchasing disability insurance. Almost everyone's most valuable asset is not something that comprises their current wealth — it is their capacity to earn income. Social Security disability payments are probably not enough to support you if you’re unable to continue earning income. You may be able to purchase disability insurance through your employer; this can be less expensive but it may not be tailored to your needs and generally lacks portability if you change employers.
-
-Second: if anyone else depends on your future income, purchasing life insurance is a way to safeguard them. The most suitable type for nearly everyone is [term life insurance](https://www.investopedia.com/terms/t/termlife.asp). For instance, a 30-year-old who was married last year and has a kid on the way would be well-advised to seek quotes for 20- to 30-year term life insurance.<sup id="fn1">[[1]](#f1)</sup> If they're healthy, they will pay a cheap, fixed premium every year for the term of 20-30 years, and their beneficiary will receive a tax-exempt payout if they die during the term. Coverage [varies](https://www.investopedia.com/which-types-of-deaths-are-not-covered-by-life-insurance-5094285) but, in general, death due to an accident, natural causes, murder, or even suicide under certain conditions will qualify for a payout. The younger and healthier you are when you start the term, the cheaper your premiums will be. Remember: the purpose of life insurance is to protect those who rely on your future income. Don't let insurance salespeople distract you from this central purpose. Most people [should not mix insurance and investing](https://www.whitecoatinvestor.com/dont-mix-insurance-and-investing/) by purchasing other policies like [whole](https://www.youtube.com/watch?v=AgBhy8iXjpI) [life](https://www.whitecoatinvestor.com/what-you-need-to-know-about-whole-life-insurance/) [insurance](https://www.whitecoatinvestor.com/debunking-the-myths-of-whole-life-insurance/), which greatly benefit the commissioned salesperson at the expense of the client. And if no one depends on your future income, you don't need any type of life insurance right now!
-
-Third: avoid extreme investment risks. Investing can be most hazardous when using debt or [leverage](https://www.investopedia.com/terms/l/leverage.asp): borrowing money to invest in stocks or real estate, for instance. Leverage is not always dangerous, but it puts you at greater risk of large losses. Any use of borrowed funds creates the possibility of losing more than you invested, replacing what was once an asset with unexpected debt. Although I wouldn’t discourage all uses of leverage — a home mortgage is a form of leverage — none of the investment options recommended here use it (outside of the [advanced topics](https://github.com/investindex/Advanced)).
-
-Finally, your most basic financial priority should be to build or maintain an __[emergency fund](https://www.youtube.com/watch?v=vftjBTjFlzI)__ after paying off credit card debt. An emergency fund keeps you prepared for spending shocks — major expenses you didn't anticipate — and income shocks — major reductions in your household income. Money market funds are a great location for your emergency fund because they have higher yields than virtually all savings accounts: you can buy shares of [SPRXX](https://fundresearch.fidelity.com/mutual-funds/summary/31617H201) at Fidelity, [SWVXX](https://www.schwabassetmanagement.com/products/swvxx) at Schwab, and [VMFXX](https://investor.vanguard.com/investment-products/mutual-funds/profile/vmfxx) at E\*Trade or Vanguard. Of those, VMFXX has the lowest expense ratio and highest yield, and E\*Trade's interface is far better than Vanguard's. These funds optimize for high yield _before tax_, so people in high tax brackets should check whether other money market funds would give them a higher after-tax yield. US Treasury bonds are exempt from state and local tax, and income from municipal bonds issued by your home state is entirely tax-exempt. If you seek the maximum safety of very short-term debt issued by the federal US government, [SGOV](https://www.ishares.com/us/products/314116/ishares-core-sp-500-etf) (an ETF available anywhere) and [VUSXX](https://investor.vanguard.com/investment-products/mutual-funds/profile/vusxx) (available at E\*Trade and Vanguard) have the lowest expense ratios. Because [Series I savings bonds](https://github.com/investindex/Risk#us-treasury-savings-bonds) have no downside risk, they can also be a great location for your emergency fund after the one-year lockup period. Consider keeping some physical cash in case of power outages. The section below on estate planning discusses how to keep documents safe from fire, and this applies to cash as well.
-
-How large should an emergency fund be? It varies greatly depending on your circumstances. Consider a married couple with stable incomes and no kids who rent their residence. They save 40% of every paycheck, have an investment portfolio currently worth a few years of expenses, and have multiple well-off family members who could help them in a crisis. Their emergency fund can be pretty light, perhaps a couple months of expenses. What about a single mother with chronic illness and no family to rely on? She works in a cyclical industry prone to layoffs, and struggles to save 10% of her paychecks under normal conditions. She should try to build a large emergency fund relative to her expenses — perhaps six months of expenses, including potential health care bills.
-
-If part of your plan for emergency money in a crisis would be to sell assets like real estate and physical possessions, keep in mind that most people find themselves in crisis around the same time: during broad economic recessions. Your assets will tend to be worth less when most potential buyers have less money to buy with. Here are some questions you can ask yourself to assess your level of need for emergency funds:
-
-* How long could you live on your savings if you sold all your liquid assets today? What if your stocks were worth half as much?
-* How long could it take for you to get another job if you're laid off or fired?
-* How stable is your main source of income when it's not zero?
-* How much could you reduce your expenses if you absolutely needed to?
-* Who else can help you pay expenses if you need it? How likely are they to be financially squeezed at the same time as you are?
-* Do you have health problems that could, at some point, reduce your ability to earn income for an extended period?
-* Could you take on extra work, including gig work, if you needed to? Potential obstacles are kids and health problems.
-* Do you rent or own your home? Renters have more predictable expenses within the term of their lease, and may be able to downsize their housing expenses at lower cost.
-
-If you have a long-term partner or spouse, all these considerations need to be placed in the context of your combined finances. Only after you've built an emergency fund should you start investing in risky assets. The peace of mind provided by a stable foundation will make it easier to tolerate the volatility of your long-term portfolio.
-
-Many people don’t take these actions or, if their finances are chronically strained, are unable to. But if you neglect to protect yourself, there will be an ever-present risk of financial ruin. Insurance may seem like a waste of money when times are good, but never forget that unpredictable, unavoidable events can shatter your life in an instant. Nothing can bankrupt you faster than expensive tragedies like a health crisis without health insurance.
-
-&nbsp;
-
-&nbsp;
-
-## Debt and investment
-
-Someone with low-interest loans should not invest in low-risk bonds or hold large amounts of cash. This [often includes someone](https://www.youtube.com/watch?v=AKc01jo1qLw) with a home mortgage. There's one clear exception, which is when you can earn more from risk-free bonds after taxes than you can save by paying your loan.<sup id="fn2">[[2]](#f2)</sup>
-
-Someone paying high interest — a 7% [APY](https://www.investopedia.com/terms/a/apy.asp) student loan or a 20% APY credit card loan — should not invest in stocks or other risky assets. A tax-free and risk-free 7% annualized return is achieved by every payment on a 7% APY loan. This is preferable to the higher average return from stocks, because the latter carries far more risk and will be taxed. Of course, you should address debt with the highest interest rate first; for many people this is credit card debt. All super high-interest loans like these should be paid off before investing or even building an [emergency fund](https://www.youtube.com/watch?v=vftjBTjFlzI). The exact interest rate thresholds depend on your risk tolerance and marginal tax rate. See this footnote<sup id="fn3">[[3]](#f3)</sup> for an example that works out the mathematics of comparing debt payments to investing.
-
-One other consideration is important. If needed, money invested in stocks or bonds can be easily liquidated. In contrast, a drawback of paying debt is that the decision can’t be easily reversed. The money is paid back, and would need to be borrowed again if you had an unexpected need for it. However, paying debt can be a very attractive equivalent of investing, as the footnote illustrates.
-
-Ensure you know the distinction between APR and APY; banks advertise APR for loans and APY for savings accounts. You can convert between them and read an explanation [here](https://www.aprtoapy.com/).
-
-&nbsp;
-
-&nbsp;
-
-## Carefully consider whether to rent or buy your residence
+## Carefully consider whether to rent or buy your home
 
 It is an article of faith for many people that owning a home is a pillar of long-term wealth and a sign of financial success. But anyone willing to do the math will find that renting can be a wise decision, regardless of whether you’re wealthy enough to buy. The right choice for each individual situation should be assessed instead of assumed. Slogans like “renting is throwing your money away” or “rent is paying someone else’s mortgage” reflect serious misconceptions.
 
@@ -168,6 +120,51 @@ Michael is 24 years old and has an investment portfolio of $15,000. He makes $50
 Are you more like Michael or Martha? Where should you focus your efforts at this point in life? Of course, there are good reasons for people who haven’t accrued great wealth to understand investing. If you commit to a whole life insurance policy as soon as you start earning decent income, you’ve locked yourself into a wealth-destroying scam that you can’t easily exit once you’ve learned better. Your lowest-earning years are the most tax-efficient time to contribute to Roth retirement accounts, and you wouldn’t want to remain ignorant of this for long. But for Michael, it's not yet wise to spend a great deal of time researching the characteristics of different small cap value funds, if he can use that time to increase his earnings.
 
 If you’re great at X, your energy is not best directed by figuring out how to squeeze a little more benefit out of X. Concentrate on Y instead.
+
+&nbsp;
+
+&nbsp;
+
+## Minimize risk of catastrophic loss
+
+First: _always_ have insurance for extremely valuable physical assets like your car and home, as well as health insurance. Even if your car has low value, liability coverage is vital for car insurance. Without it, you could find yourself paying the medical bills of someone you injured in a car accident. Understand the coverage you’re entitled to, so that you’re not subject to surprise denials. Once you’ve achieved some financial stability, seriously consider purchasing disability insurance. Almost everyone's most valuable asset is not something that comprises their current wealth — it is their capacity to earn income. Social Security disability payments are probably not enough to support you if you’re unable to continue earning income. You may be able to purchase disability insurance through your employer; this can be less expensive but it may not be tailored to your needs and generally lacks portability if you change employers.
+
+Second: if anyone else depends on your future income, purchasing life insurance is a way to safeguard them. The most suitable type for nearly everyone is [term life insurance](https://www.investopedia.com/terms/t/termlife.asp). For instance, a 30-year-old who was married last year and has a kid on the way would be well-advised to seek quotes for 20- to 30-year term life insurance.<sup id="fn1">[[1]](#f1)</sup> If they're healthy, they will pay a cheap, fixed premium every year for the term of 20-30 years, and their beneficiary will receive a tax-exempt payout if they die during the term. Coverage [varies](https://www.investopedia.com/which-types-of-deaths-are-not-covered-by-life-insurance-5094285) but, in general, death due to an accident, natural causes, murder, or even suicide under certain conditions will qualify for a payout. The younger and healthier you are when you start the term, the cheaper your premiums will be. Remember: the purpose of life insurance is to protect those who rely on your future income. Don't let insurance salespeople distract you from this central purpose. Most people [should not mix insurance and investing](https://www.whitecoatinvestor.com/dont-mix-insurance-and-investing/) by purchasing other policies like [whole](https://www.youtube.com/watch?v=AgBhy8iXjpI) [life](https://www.whitecoatinvestor.com/what-you-need-to-know-about-whole-life-insurance/) [insurance](https://www.whitecoatinvestor.com/debunking-the-myths-of-whole-life-insurance/), which greatly benefit the commissioned salesperson at the expense of the client. And if no one depends on your future income, you don't need any type of life insurance right now!
+
+Third: avoid extreme investment risks. Investing can be most hazardous when using debt or [leverage](https://www.investopedia.com/terms/l/leverage.asp): borrowing money to invest in stocks or real estate, for instance. Leverage is not always dangerous, but it puts you at greater risk of large losses. Any use of borrowed funds creates the possibility of losing more than you invested, replacing what was once an asset with unexpected debt. Although I wouldn’t discourage all uses of leverage — a home mortgage is a form of leverage — none of the investment options recommended here use it (outside of the [advanced topics](https://github.com/investindex/Advanced)).
+
+Finally, your most basic financial priority should be to build or maintain an __[emergency fund](https://www.youtube.com/watch?v=vftjBTjFlzI)__ after paying off credit card debt. An emergency fund keeps you prepared for spending shocks — major expenses you didn't anticipate — and income shocks — major reductions in your household income. Money market funds are a great location for your emergency fund because they have higher yields than virtually all savings accounts: you can buy shares of [SPRXX](https://fundresearch.fidelity.com/mutual-funds/summary/31617H201) at Fidelity, [SWVXX](https://www.schwabassetmanagement.com/products/swvxx) at Schwab, and [VMFXX](https://investor.vanguard.com/investment-products/mutual-funds/profile/vmfxx) at E\*Trade or Vanguard. Of those, VMFXX has the lowest expense ratio and highest yield, and E\*Trade's interface is far better than Vanguard's. These funds optimize for high yield _before tax_, so people in high tax brackets should check whether other money market funds would give them a higher after-tax yield. US Treasury bonds are exempt from state and local tax, and income from municipal bonds issued by your home state is entirely tax-exempt. If you seek the maximum safety of very short-term debt issued by the federal US government, [SGOV](https://www.ishares.com/us/products/314116/ishares-core-sp-500-etf) (an ETF available anywhere) and [VUSXX](https://investor.vanguard.com/investment-products/mutual-funds/profile/vusxx) (available at E\*Trade and Vanguard) have the lowest expense ratios. Because [Series I savings bonds](https://github.com/investindex/Risk#us-treasury-savings-bonds) have no downside risk, they can also be a great location for your emergency fund after the one-year lockup period. Consider keeping some physical cash in case of power outages. The section below on estate planning discusses how to keep documents safe from fire, and this applies to cash as well.
+
+How large should an emergency fund be? It varies greatly depending on your circumstances. Consider a married couple with stable incomes and no kids who rent their residence. They save 40% of every paycheck, have an investment portfolio currently worth a few years of expenses, and have multiple well-off family members who could help them in a crisis. Their emergency fund can be pretty light, perhaps a couple months of expenses. What about a single mother with chronic illness and no family to rely on? She works in a cyclical industry prone to layoffs, and struggles to save 10% of her paychecks under normal conditions. She should try to build a large emergency fund relative to her expenses — perhaps six months of expenses, including potential health care bills.
+
+If part of your plan for emergency money in a crisis would be to sell assets like real estate and physical possessions, keep in mind that most people find themselves in crisis around the same time: during broad economic recessions. Your assets will tend to be worth less when most potential buyers have less money to buy with. Here are some questions you can ask yourself to assess your level of need for emergency funds:
+
+* How long could you live on your savings if you sold all your liquid assets today? What if your stocks were worth half as much?
+* How long could it take for you to get another job if you're laid off or fired?
+* How stable is your main source of income when it's not zero?
+* How much could you reduce your expenses if you absolutely needed to?
+* Who else can help you pay expenses if you need it? How likely are they to be financially squeezed at the same time as you are?
+* Do you have health problems that could, at some point, reduce your ability to earn income for an extended period?
+* Could you take on extra work, including gig work, if you needed to? Potential obstacles are kids and health problems.
+* Do you rent or own your home? Renters have more predictable expenses within the term of their lease, and may be able to downsize their housing expenses at lower cost.
+
+If you have a long-term partner or spouse, all these considerations need to be placed in the context of your combined finances. Only after you've built an emergency fund should you start investing in risky assets. The peace of mind provided by a stable foundation will make it easier to tolerate the volatility of your long-term portfolio.
+
+Many people don’t take these actions or, if their finances are chronically strained, are unable to. But if you neglect to protect yourself, there will be an ever-present risk of financial ruin. Insurance may seem like a waste of money when times are good, but never forget that unpredictable, unavoidable events can shatter your life in an instant. Nothing can bankrupt you faster than expensive tragedies like a health crisis without health insurance.
+
+&nbsp;
+
+&nbsp;
+
+## Pay debt or invest?
+
+Someone with low-interest loans should not invest in low-risk bonds or hold large amounts of cash. This [often includes someone](https://www.youtube.com/watch?v=AKc01jo1qLw) with a home mortgage. There's one clear exception, which is when you can earn more from risk-free bonds after taxes than you can save by paying your loan.<sup id="fn2">[[2]](#f2)</sup>
+
+Someone paying high interest — a 7% [APY](https://www.investopedia.com/terms/a/apy.asp) student loan or a 20% APY credit card loan — should not invest in stocks or other risky assets. A tax-free and risk-free 7% annualized return is achieved by every payment on a 7% APY loan. This is preferable to the higher average return from stocks, because the latter carries far more risk and will be taxed. Of course, you should address debt with the highest interest rate first; for many people this is credit card debt. All super high-interest loans like these should be paid off before investing or even building an [emergency fund](https://www.youtube.com/watch?v=vftjBTjFlzI). The exact interest rate thresholds depend on your risk tolerance and marginal tax rate. See this footnote<sup id="fn3">[[3]](#f3)</sup> for an example that works out the mathematics of comparing debt payments to investing.
+
+One other consideration is important. If needed, money invested in stocks or bonds can be easily liquidated. In contrast, a drawback of paying debt is that the decision can’t be easily reversed. The money is paid back, and would need to be borrowed again if you had an unexpected need for it. However, paying debt can be a very attractive equivalent of investing, as the footnote illustrates.
+
+Ensure you know the distinction between APR and APY; banks advertise APR for loans and APY for savings accounts. You can convert between them and read an explanation [here](https://www.aprtoapy.com/).
 
 &nbsp;
 
