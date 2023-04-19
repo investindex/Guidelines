@@ -145,7 +145,7 @@ If part of your plan for emergency money in a crisis would be to sell assets lik
 * How long could it take for you to get another job if you're laid off or fired?
 * How stable is your main source of income when it's not zero?
 * How much could you reduce your expenses if you absolutely needed to?
-* Who else can help you pay expenses if you need it? How likely are they to be financially squeezed at the same time as you are?
+* Who else can help you pay expenses if you need it? Would you be willing to ask? How likely are they to be financially squeezed at the same time as you are?
 * Do you have health problems that could, at some point, reduce your ability to earn income for an extended period?
 * Could you take on extra work, including gig work, if you needed to? Potential obstacles are kids and health problems.
 * Do you rent or own your home? Renters have more predictable expenses within the term of their lease, and may be able to downsize their housing expenses with lower frictional costs.
