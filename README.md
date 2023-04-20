@@ -68,6 +68,7 @@ Here's a table providing a sense of out-of-pocket housing expenses if you buy a 
 
 | Home price | 20% down | Annual expenses (4%) | Annual expenses (5%) | Annual expenses (6%) |
 | :--: | :--: | :--: | :--: | :--: |
+| $150K | $30K | $10,625 | $11,480 | $12,384 |
 | $200K | $40K | $14,166 | $15,307 | $16,511 |
 | $300K | $60K | $21,250 | $22,960 | $24,767 |
 | $400K | $80K | $28,333 | $30,614 | $33,023 |
