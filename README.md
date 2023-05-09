@@ -252,7 +252,7 @@ Naming beneficiaries and creating an "in case of death" document are only the fi
 
 #### Last will and testament
 
-A last will is [surprisingly easy](https://www.youtube.com/watch?v=99-RjX5VVhs) to write on your own if your wishes and situation are simple; not everyone needs to hire an attorney. You can use online templates for help. But if you have a child under 18, a business, real estate in multiple states, or any other complicating factor, I recommend consulting an estate planning attorney. Speaking broadly, the minimum requirements are that you:
+A last will is [surprisingly easy](https://www.youtube.com/watch?v=99-RjX5VVhs) to write on your own if your wishes and situation are simple; not everyone needs to hire an attorney. You can use online templates for help. But if you have any complicating factor like a child under 18, a business, real estate in multiple states, or a family member who might contest your will, I recommend consulting an estate planning attorney. Speaking broadly, the minimum requirements are that you:
 
 * Identify yourself and declare the document your last will and testament. Revoke all your prior wills and codicils. "I, William Willwriter — born 1 January 1980 in New York, NY and currently residing at [full address] — declare this document to be my last will and testament. I expressly revoke all my prior wills and codicils."
 
