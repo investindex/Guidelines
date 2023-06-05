@@ -65,7 +65,7 @@ Property tax alone is 1% on average in the US, and can range as high as 3% in so
 Here's a table providing a sense of out-of-pocket housing expenses if you buy a home with a 30-year, fixed-rate mortgage and assume 2.5% annual ongoing expenses from property tax, HOA fees, maintenance, and so on. These costs are separate from the principal and interest payments. The numbers below combine all those annual expenses. Interest rates on the mortgage vary between 4% and 7%, and the down payment is a standard (but above-average) 20%. If 7% seems unusually high because you know people with 3% mortgage rates, see the [historical data](https://fred.stlouisfed.org/series/MORTGAGE30US/) on average 30-year mortgage rates in the US. Rates above 6% have been a lot more common than those below 4%. There are many good mortgage calculators online, including [mortgagecalculator.org](https://www.mortgagecalculator.org/).
 
 <p align="center">
-  <b>Annual housing expenses with a 20% down payment, 30-year fixed-rate mortgage, and 2.5% ongoing expenses</b>
+  <b>Annual housing expenses with a 30-year fixed-rate mortgage, 20% down, and 2.5% ongoing expenses</b>
 </p>
 
 | &nbsp; Home price &nbsp; | &nbsp; 20% down &nbsp; | &emsp; &nbsp; 4% rate &emsp; &nbsp; | &emsp; &nbsp; 5% rate &emsp; &nbsp; | &emsp; &nbsp; 6% rate &emsp; &nbsp; | &emsp; &nbsp; 7% rate &emsp; &nbsp; |
