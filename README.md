@@ -78,16 +78,6 @@ Here's a table providing a sense of out-of-pocket housing expenses if you buy a 
 | $1.0M | $200K | $70,832 | $76,535 | $82,557 | $88,869 |
 | $2.0M | $400K | $141,664 | $153,070 | $165,114 | $177,738 |
 
-| Home price | 20% down | Annual expenses (4%) | Annual expenses (5%) | Annual expenses (6%) |
-| :--: | :--: | :--: | :--: | :--: |
-| $150K | $30K | $10,625 | $11,480 | $12,384 |
-| $200K | $40K | $14,166 | $15,307 | $16,511 |
-| $300K | $60K | $21,250 | $22,960 | $24,767 |
-| $400K | $80K | $28,333 | $30,614 | $33,023 |
-| $500K | $100K | $35,416 | $38,267 | $41,278 |
-| $1.0M | $200K | $70,832 | $76,535 | $82,557 |
-| $2.0M | $400K | $141,664 | $153,070 | $165,114 |
-
 &nbsp;
 
 Let’s take the example of a $400K home with an $80K down payment and 5% interest rate. The annual out-of-pocket expenses are $30,614, but what are the unrecoverable costs we can compare to a rental? Under the 5% rule for a $400K property, we would calculate annual rent of $20K or monthly rent of $1,667. But Ben Felix’s simplified example assumed the cost of capital is the same for borrowing money and paying into home equity, 3% either way. Here, the cost of capital is 5% for the borrowed money, and we’ll keep a low estimate of only 3% for the money locked up in home equity. We'll assume 2.5% ongoing expenses instead of 2%. In the first year of this mortgage, the unrecoverable costs will be 2.5% of $400K ($10K) plus mortgage interest ($15,893) plus 3% of the average amount of money committed to home equity ($2,464). That adds to about $28,357 annually or $2,363 monthly. So under these rough assumptions, any similar rental with total costs below $2,363 is likely to be a better deal than buying this home, and any rental above that amount is likely to be worse. You would also want to consider: (a) the price risk of buying a home you might sell; (b) the transaction costs of buying (and probably selling); (c) whether the mortgage interest tax deduction could reduce your tax bill; (d) that your assets would be more liquid and more diversified as a renter; (e) that your expenses over the lease term would be more predictable as a renter, entailing less need for cash on hand; and (f) that regular payments are more stable in the long run if you buy, compared to uncertain future rent prices. But future regular payments can't be fully anticipated because property tax, insurance, and HOA fees will change at uncertain rates, and surprise repairs are a wild card.
