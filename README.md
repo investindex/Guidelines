@@ -68,7 +68,7 @@ Here's a table providing a sense of out-of-pocket housing expenses if you buy a 
   <b>Annual expenses for a 30-year mortgage with 20% down, 2.5% ongoing expenses, and 4-7% interest rates</b>
 </p>
 
-| Home price | 20% down | &emsp; &nbsp; 4% rate &emsp; &nbsp; | &emsp; &nbsp; 5% rate &emsp; &nbsp; | &emsp; &nbsp; 6% rate &emsp; &nbsp; | &emsp; &nbsp; 7% rate &emsp; &nbsp; |
+| &emsp; &nbsp; Home price &emsp; &nbsp; | &emsp; &nbsp; 20% down &emsp; &nbsp; | &emsp; &nbsp; 4% rate &emsp; &nbsp; | &emsp; &nbsp; 5% rate &emsp; &nbsp; | &emsp; &nbsp; 6% rate &emsp; &nbsp; | &emsp; &nbsp; 7% rate &emsp; &nbsp; |
 | :--: | :--: | :--: | :--: | :--: | :--: |
 | $150K | $30K | $10,625 | $11,480 | $12,384 | $13,330 |
 | $200K | $40K | $14,166 | $15,307 | $16,511 | $17,774 |
