@@ -77,6 +77,7 @@ Here's a table providing a sense of out-of-pocket housing expenses if you buy a 
 | $500K | $100K | $35,416 | $38,267 | $41,278 | $44,435 |
 | $1.0M | $200K | $70,832 | $76,535 | $82,557 | $88,869 |
 | $2.0M | $400K | $141,664 | $153,070 | $165,114 | $177,738 |
+| X | 20% of X | 7.08% of X | 7.65% of X | 8.26% of X | 8.89% of X |
 
 &nbsp;
 
