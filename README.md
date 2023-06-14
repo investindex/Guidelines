@@ -163,8 +163,8 @@ If part of your plan for emergency money in a crisis would be to sell assets lik
 * How much could you reduce your expenses if you absolutely needed to?
 * Who else can help you pay expenses if you need it? Would you be willing to ask? How likely are they to be financially squeezed at the same time as you are?
 * Do you have health problems that could, at some point, reduce your ability to earn income for an extended period?
-* Could you take on extra work, including gig work, if you needed to? Potential obstacles are kids, health problems, and lacking access to a car.
 * Do you have disability insurance? What kind of coverage is provided?
+* Could you take on extra work, including gig work, if you needed to? Potential obstacles are kids, health problems, and lacking access to a car.
 * Do you rent or own your home? Renters have more predictable expenses within the term of their lease, and may be able to downsize their housing expenses with lower frictional costs.
 
 If you have a long-term partner or spouse, all these considerations need to be placed in the context of your combined finances. Only after you've built an emergency fund should you start investing in risky assets. The peace of mind provided by a stable foundation will make it easier to tolerate the volatility of your long-term portfolio. [There are people](https://www.whitecoatinvestor.com/why-i-dont-have-an-emergency-fund/) who may not need an emergency fund. To pick one extreme, I wouldn't suggest to a billionaire that they _need_ to have some risk-free assets (aside from physical cash). They would be fine even if their net worth fell by 90%. But I think it's an appropriate practice for a vast majority of working people.
