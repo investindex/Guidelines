@@ -68,15 +68,15 @@ Here's a table providing a sense of out-of-pocket housing expenses if you buy a 
   <b>Annual housing expenses with a 30-year fixed-rate mortgage, 20% down, and 2.5% ongoing expenses</b>
 </p>
 
-| &nbsp; Home price &nbsp; | &nbsp; 20% down &nbsp; | &emsp; &nbsp; 4% rate &emsp; &nbsp; | &emsp; &nbsp; 5% rate &emsp; &nbsp; | &emsp; &nbsp; 6% rate &emsp; &nbsp; | &emsp; &nbsp; 7% rate &emsp; &nbsp; |
+| &nbsp; Home price &nbsp; | &nbsp; 20% down &nbsp; | &emsp; &nbsp; 4% rate &emsp; &nbsp; | &emsp; &nbsp; 5% rate &emsp; &nbsp; | &emsp; &nbsp; 6% rate &emsp; &nbsp; | &emsp; &nbsp; 7% rate &emsp; &nbsp; | &emsp; &nbsp; 8% rate &emsp; &nbsp; |
 | :--: | :--: | :--: | :--: | :--: | :--: |
-| $150K | $30K | $10,625 | $11,480 | $12,384 | $13,330 |
-| $200K | $40K | $14,166 | $15,307 | $16,511 | $17,774 |
-| $300K | $60K | $21,250 | $22,960 | $24,767 | $26,661 |
-| $400K | $80K | $28,333 | $30,614 | $33,023 | $35,548 |
-| $500K | $100K | $35,416 | $38,267 | $41,278 | $44,435 |
-| $1.0M | $200K | $70,832 | $76,535 | $82,557 | $88,869 |
-| $2.0M | $400K | $141,664 | $153,070 | $165,114 | $177,738 |
+| $150K | $30K | $10,625 | $11,480 | $12,384 | $13,330 | $13,330 |
+| $200K | $40K | $14,166 | $15,307 | $16,511 | $17,774 | $13,330 |
+| $300K | $60K | $21,250 | $22,960 | $24,767 | $26,661 | $13,330 |
+| $400K | $80K | $28,333 | $30,614 | $33,023 | $35,548 | $13,330 |
+| $500K | $100K | $35,416 | $38,267 | $41,278 | $44,435 | $13,330 |
+| $1.0M | $200K | $70,832 | $76,535 | $82,557 | $88,869 | $13,330 |
+| $2.0M | $400K | $141,664 | $153,070 | $165,114 | $177,738 | $13,330 |
 | X | 20% of X | [7.08% of X](https://www.wolframalpha.com/input?i=.07083186836*150000+%7C+2+decimal+places) | [7.65% of X](https://www.wolframalpha.com/input?i=.07653487581*150000+%7C+2+decimal+places) | [8.26% of X](https://www.wolframalpha.com/input?i=.08255685041*150000+%7C+2+decimal+places) | [8.89% of X](https://www.wolframalpha.com/input?i=.08886903953*150000+%7C+2+decimal+places) |
 
 <!-- Note to author: the formula for the last row was of the following form: 12*(.8*(.04/12)*(1+.04/12)^360)/((1+.04/12)^360-1)+.025 -->
