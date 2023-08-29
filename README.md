@@ -103,6 +103,8 @@ Why do many people think owning their home is so important?
 
 (5) They think that renting is nothing but a loser’s game that makes someone else rich. People don't like to be ripped off, so to avoid squandering money, some people will work hard to get on any rung of the "[property ladder](https://en.wikipedia.org/wiki/Property_ladder)". Hopefully I’ve complicated the narrative that renting is losing and owning is winning.
 
+The subreddits [r/RealEstate](https://www.reddit.com/r/RealEstate/) and [r/FirstTimeHomeBuyer](https://www.reddit.com/r/FirstTimeHomeBuyer/) are great forums for learning about the varieties of home-buying experience.
+
 &nbsp;
 
 &nbsp;
