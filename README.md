@@ -70,7 +70,7 @@ Here's a table providing a sense of out-of-pocket housing expenses if you buy a 
 
 <!-- | &nbsp; Home price &nbsp; | &nbsp; 20% down &nbsp; | &emsp; &nbsp; 4% rate &emsp; &nbsp; | &emsp; &nbsp; 5% rate &emsp; &nbsp; | &emsp; &nbsp; 6% rate &emsp; &nbsp; | &emsp; &nbsp; 7% rate &emsp; &nbsp; | &emsp; &nbsp; 8% rate &emsp; &nbsp; | -->
 
-| Home price | 20% down | &emsp; 4% rate &emsp; | &emsp; 5% rate &emsp; | &emsp; 6% rate &emsp; | &emsp; 7% rate &emsp; | &emsp; 8% rate &emsp; |
+| Price | 20% down | &emsp; 4% rate &emsp; | &emsp; 5% rate &emsp; | &emsp; 6% rate &emsp; | &emsp; 7% rate &emsp; | &emsp; 8% rate &emsp; |
 | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
 | $150K | $30K | $10,625 | $11,480 | $12,384 | $13,330 | $14,316 |
 | $200K | $40K | $14,166 | $15,307 | $16,511 | $17,774 | $19,088 |
