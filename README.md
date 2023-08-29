@@ -62,7 +62,7 @@ So unrecoverable costs can be understood as a kind of rent you pay to own a home
 
 Property tax alone is 1% on average in the US, and can range as high as 3% in some counties! [HOA fees](https://www.youtube.com/watch?v=tg7FsGZfL30) can be zero in detached units like a single-family house, or less than 1%. But they can reach [above 3%](https://www.nytimes.com/interactive/2023/02/23/realestate/studio-apartment-brooklyn-ny.html) in some multi-unit buildings with amenities. If you buy a condo in a building with its own gym, parking garage, or doormen, be prepared to pay high fees every month for as long as you own the unit. Even if you live in a single-family house, HOA-supported amenities like a pool and clubhouse can be expensive. You generally can't opt out of using and paying for what an HOA provides; even if you don't want the lawn care and snow removal, you accept the fees when you buy the home. Maintenance is perhaps another 1%, but can be higher. If you decline to maintain your home, its value will depreciate, so it costs you either way. Maintenance is not only the regular small expenses, but also entails saving enough to occasionally replace major appliances, roof and siding, sewage and plumbing, etc. These costs don't include [home upgrades and renovations](https://www.youtube.com/watch?v=86TmajjhHfU), which are an [expensive temptation](https://www.whitecoatinvestor.com/building-wealth-while-living-in-an-expensive-neighborhood/) on which most homeowners will spend additional money. Maintenance has some overlap with HOA fees: if you live in a condo you won't have to maintain a roof or driveway yourself, but HOA fees are used to maintain the building's roof (and parking area, if there is one). HOA fees in a condo also cover services like garbage disposal, which are a separate expense for owners of single-family houses. Clearly, adjustments to the 5% rule are needed depending on the characteristics of each property. The 3% premium for investing in stocks can also differ depending on your portfolio and how your gains are taxed.
 
-Here's a table providing a sense of out-of-pocket housing expenses if you buy a home with a 30-year, fixed-rate mortgage and assume 2.5% annual ongoing expenses from property tax, HOA fees, maintenance, and so on. These costs are separate from the principal and interest payments. The numbers below combine all those annual expenses. Interest rates on the mortgage vary between 4% and 8%, and the down payment is a standard (but above-average) 20%. If 7% or 8% seems unusually high because you know people with 3% mortgage rates, see the [historical data](https://fred.stlouisfed.org/series/MORTGAGE30US/) on average 30-year mortgage rates in the US. Rates above 6% have been a lot more common than those below 4%, and the average rate since 1971 is _above_ 7%. There are many good mortgage calculators online, including [mortgagecalculator.org](https://www.mortgagecalculator.org/).
+Here's a table providing a sense of out-of-pocket housing expenses if you buy a home with a 30-year, fixed-rate mortgage and assume 2.5% annual ongoing expenses from property tax, HOA fees, maintenance, and so on. These costs are separate from the principal and interest payments. The numbers below combine all those annual expenses. Interest rates on the mortgage vary between 4% and 8%, and the down payment is a standard (but above-average) 20%. If 7% or 8% seems unusually high because you know people with 3% mortgage rates, see the [historical data](https://fred.stlouisfed.org/series/MORTGAGE30US/) on average 30-year mortgage rates in the US. Rates above 6% have been a lot more common than those below 4%, and the average rate since 1971 is well above 7%. There are many good mortgage calculators online, including [mortgagecalculator.org](https://www.mortgagecalculator.org/).
 
 <p align="center">
   <b>Annual housing expenses with a 30-year fixed-rate mortgage, 20% down, and 2.5% ongoing expenses</b>
@@ -70,15 +70,15 @@ Here's a table providing a sense of out-of-pocket housing expenses if you buy a 
 
 <!-- | &nbsp; Home price &nbsp; | &nbsp; 20% down &nbsp; | &emsp; &nbsp; 4% rate &emsp; &nbsp; | &emsp; &nbsp; 5% rate &emsp; &nbsp; | &emsp; &nbsp; 6% rate &emsp; &nbsp; | &emsp; &nbsp; 7% rate &emsp; &nbsp; | &emsp; &nbsp; 8% rate &emsp; &nbsp; | -->
 
-| Home price | 20% down | &nbsp; 4% rate &nbsp; | &nbsp; 5% rate &nbsp; | &nbsp; 6% rate &nbsp; | &nbsp; 7% rate &nbsp; | &nbsp; 8% rate &nbsp; |
+| Home price | 20% down | &emsp; 4% rate &emsp; | &emsp; 5% rate &emsp; | &emsp; 6% rate &emsp; | &emsp; 7% rate &emsp; | &emsp; 8% rate &emsp; |
 | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
-| $150K | $30K | $10,625 | $11,480 | $12,384 | $13,330 | $13,330 |
-| $200K | $40K | $14,166 | $15,307 | $16,511 | $17,774 | $13,330 |
-| $300K | $60K | $21,250 | $22,960 | $24,767 | $26,661 | $13,330 |
-| $400K | $80K | $28,333 | $30,614 | $33,023 | $35,548 | $13,330 |
-| $500K | $100K | $35,416 | $38,267 | $41,278 | $44,435 | $13,330 |
-| $1.0M | $200K | $70,832 | $76,535 | $82,557 | $88,869 | $13,330 |
-| $2.0M | $400K | $141,664 | $153,070 | $165,114 | $177,738 | $13,330 |
+| $150K | $30K | $10,625 | $11,480 | $12,384 | $13,330 | $14,316 |
+| $200K | $40K | $14,166 | $15,307 | $16,511 | $17,774 | $19,088 |
+| $300K | $60K | $21,250 | $22,960 | $24,767 | $26,661 | $28,632 |
+| $400K | $80K | $28,333 | $30,614 | $33,023 | $35,548 | $38,177 |
+| $500K | $100K | $35,416 | $38,267 | $41,278 | $44,435 | $47,721 |
+| $1.0M | $200K | $70,832 | $76,535 | $82,557 | $88,869 | $95,441 |
+| $2.0M | $400K | $141,664 | $153,070 | $165,114 | $177,738 | $190,883 |
 | X | 20% of X | [7.08% of X](https://www.wolframalpha.com/input?i=.07083186836*150000+%7C+2+decimal+places) | [7.65% of X](https://www.wolframalpha.com/input?i=.07653487581*150000+%7C+2+decimal+places) | [8.26% of X](https://www.wolframalpha.com/input?i=.08255685041*150000+%7C+2+decimal+places) | [8.89% of X](https://www.wolframalpha.com/input?i=.08886903953*150000+%7C+2+decimal+places) | [8.89% of X](https://www.wolframalpha.com/input?i=.08886903953*150000+%7C+2+decimal+places) |
 
 <!-- Note to author: the formula for the last row was of the following form: 12*(.8*(.04/12)*(1+.04/12)^360)/((1+.04/12)^360-1)+.025 -->
