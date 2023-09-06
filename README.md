@@ -60,7 +60,7 @@ As a renter, all costs are unrecoverable: rent, utilities, and possibly renter's
 
 So unrecoverable costs can be understood as a kind of rent you pay to own a home. We can add up the unrecoverable costs of renting and buying to establish a basis for comparison. Ben Felix suggested the [5% rule](https://www.youtube.com/watch?v=Uwl3-jBNEd4), a simplified guideline which suggests that renting is advantageous if your annual rent is less than 5% of a similar property's purchase price. In Ben Felix's formulation of unrecoverable costs, 3 percentage points arise from the cost of capital, and 2 points arise from ongoing expenses like property tax and maintenance. In my view, 2% is on the very low end of the spectrum of ongoing expenses.
 
-* Property tax alone is 1% on average in the US, and can range as high as 3% in some counties!
+* Property tax alone is 1% on average in the US, and exceeds 3% in some counties!
   
 * [HOA fees](https://www.youtube.com/watch?v=tg7FsGZfL30) can be absent in detached, single-family homes, or less than 1%. But they can reach [above 3%](https://www.nytimes.com/interactive/2023/02/23/realestate/studio-apartment-brooklyn-ny.html) in some multi-unit buildings with amenities. If you buy a condo in a building with its own gym, parking garage, or doormen, be prepared to pay high fees every month for as long as you own the unit. Even if you live in a single-family house, HOA-supported amenities like a pool and clubhouse can be expensive. You generally can't opt out of using and paying for what an HOA provides; even if you don't want the lawn care and snow removal, you accept the fees when you buy the home.
 
