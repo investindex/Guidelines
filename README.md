@@ -9,7 +9,9 @@ Click to move to each section:
 * [Pay debt or invest?](https://github.com/investindex/Guidelines#pay-debt-or-invest)
 * [Fraud prevention](https://github.com/investindex/Guidelines#fraud-prevention) - [banking footnote](https://github.com/investindex/Guidelines#f6) - [credit freeze footnote](https://github.com/investindex/Guidelines#f7)
 * [Always designate beneficiaries](https://github.com/investindex/Guidelines#always-designate-beneficiaries)
+<!--
 * [Simplify your investments, don't simplify your thinking](https://github.com/investindex/Guidelines#simplify-your-investments-dont-simplify-your-thinking)
+-->
 
 &nbsp;
 
@@ -309,6 +311,8 @@ Every adult, regardless of their assets, should create an "in case of death" doc
 
 &nbsp;
 
+<!--
+
 ## Simplify your investments, don't simplify your thinking
 
 Index funds are useful because they invest in a shifting collection of hundreds or thousands of securities, which would be an onerous task for anyone without access to institutional resources. They illustrate that simple solutions can be superior to complex solutions. There are expanding offerings for the ultimate simplification: all-in-one asset allocation funds. They allow you to select a single fund based on allocation, such as 80% stocks and 20% bonds, and provide you with an automatically [rebalanced](https://www.investopedia.com/terms/r/rebalancing.asp), globally diversified assembly of stocks and bonds. There are all-in-one mutual funds from [Vanguard](https://investor.vanguard.com/investment-products/mutual-funds/life-strategy-funds) and [Schwab](https://www.schwab.com/mutual-funds/mutual-fund-portfolio/market-track-portfolios), as well as all-in-one ETFs from BlackRock with allocations of [80/20](https://www.ishares.com/us/products/239729/ishares-aggressive-allocation-etf), [60/40](https://www.ishares.com/us/products/239756/ishares-growth-allocation-etf), [40/60](https://www.ishares.com/us/products/239765/ishares-moderate-allocation-etf), and [30/70](https://www.ishares.com/us/products/239733/ishares-conservative-allocation-etf). Avantis, a great asset manager we'll discuss [later](https://github.com/investindex/Fund/blob/main/README.md), has a single allocation ETF with [65-70% stocks and 30-35% bonds](https://www.avantisinvestors.com/avantis-investments/avantis-moderate-allocation-etf/). Although using one of these is far better than not investing, they carry a hazard.
@@ -326,6 +330,9 @@ This is a very general proposal and, as vague as it is, it is still not appropri
 Another drawback of all-in-one asset allocation funds is that you can't choose to withdraw only from stocks or only from bonds. If you need money during a stock market downturn, you sell stocks at a loss by selling shares even if you'd like to sell only bonds. An easy way to remedy this is by investing in [VT](https://investor.vanguard.com/investment-products/etfs/profile/vt) and [BNDW](https://investor.vanguard.com/investment-products/etfs/profile/bndw) instead. This is still a very simple portfolio, but allows you to withdraw from the bond fund without selling stocks.
 
 Target retirement funds are another type of all-in-one fund. They increase bond allocation over time as investors gradually approach a given retirement year (e.g., [Vanguard Target Retirement Fund 2040](https://investor.vanguard.com/investment-products/mutual-funds/profile/vforx)). These are fine as a default investment in 401(k) accounts, but I don't encourage them for people who are willing to devote any time to investing. Deciding on a stock/bond allocation is a task most people can handle, especially those willing to read a guide like this. Allowing a default [glide path](https://www.thebalancemoney.com/glide-path-formula-definition-and-example-4582110) to dictate your asset allocation is often not in your best interest. Moreover, be aware that target retirement funds are [not always sensitive](https://www.wsj.com/articles/vanguard-target-retirement-tax-bill-surprise-11642781228) to those using the fund in a taxable account. They may have large capital gains distributions to which their tax-advantaged 401(k) investors are indifferent. So even if you decide on a target retirement fund in your retirement account, __do not__ do so in a taxable account.
+
+-->
+
 <!--
 &nbsp;
 
@@ -340,8 +347,10 @@ For the majority of Americans who are not multimillionaires, how can this princi
 It is a widespread practice to include bonds in long-term retirement portfolios. These tend to be aggregate bond funds with significantly lower expected return than stock funds. The main justification for this, in my view, is that volatility is emotionally uncomfortable. If you can tolerate volatility, your investments with a long time horizon should be in stocks and — if interest rates are not terribly low — in long-term, high-quality bonds. The most extreme version of such bonds are those held by funds like [EDV](https://investor.vanguard.com/investment-products/etfs/profile/edv) and [GOVZ](https://www.ishares.com/us/products/315911/ishares-25%20-year-treasury-strips-bond-etf), which hold zero-coupon, long-term US Treasury bonds.
 
 FOOTNOTE: How many years exactly? A weasel word, _number_, is used because there is no perfect answer. The historical evidence suggests that a five-year horizon is sufficient in a large majority of bear markets, while an eight-year horizon is much safer and will permit you to wait for a recovery from nearly any potential downturn. In US history, only the [Great Depression](https://github.com/investindex/Risk#f5) would violate this rule. You can make your portfolio more robust against long downturns by diversifying, as described in the [section on stock portfolios](https://github.com/investindex/Portfolio). 
--->
+
 &nbsp;
+
+-->
 
 [Click here for the next section — Building a stock portfolio](https://github.com/investindex/Portfolio)
 
