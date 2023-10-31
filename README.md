@@ -8,8 +8,9 @@ Click to move to each section:
 * [Minimize risk of catastrophic loss](https://github.com/investindex/Guidelines#minimize-risk-of-catastrophic-loss) - [emergency fund](https://github.com/investindex/Guidelines#emergency-fund)
 * [Pay debt or invest?](https://github.com/investindex/Guidelines#pay-debt-or-invest)
 * [Fraud prevention](https://github.com/investindex/Guidelines#fraud-prevention) - [banking footnote](https://github.com/investindex/Guidelines#f6) - [credit freeze footnote](https://github.com/investindex/Guidelines#f7)
-* [Always designate beneficiaries](https://github.com/investindex/Guidelines#always-designate-beneficiaries)
+
 <!--
+* [Always designate beneficiaries](https://github.com/investindex/Guidelines#always-designate-beneficiaries)
 * [Simplify your investments, don't simplify your thinking](https://github.com/investindex/Guidelines#simplify-your-investments-dont-simplify-your-thinking)
 -->
 
@@ -262,7 +263,7 @@ In general, follow your gut: no one will ever award you money if you didn't ente
 &nbsp;
 
 If you conclude with confidence that someone has stolen your money or spent it fraudulently, it is best to file a police report as soon as possible. This alerts your bank to the gravity of the situation, and will encourage them not to drag their feet, for which they are notorious. If your fraud claims are unsuccessful, you may also want to file a report with the Consumer Financial Protection Bureau and/or the FBI.
-
+<!--
 &nbsp;
 
 &nbsp;
@@ -306,7 +307,7 @@ The original hard copy of a last will is the only one that counts: if it can't b
 Many people don't put a moment's effort into preparing for their death because they _intend_ to live for many more years. When such people die suddenly, some of their loved ones are thrown into a confusing process after their death. On top of grieving, someone is charged with figuring out where their assets are located, whether they had life insurance, and how to navigate the legal fallout of a person who died without indicating what should happen to their children, their pets, their assets, their possessions, and their own bodily remains. Even if the deceased had a complete estate plan at one point, they may have [neglected](https://twitter.com/ask_aubry/status/1651572037696069637) to update it to accomodate changes in their wishes or the estate itself. Everyone dies, and many people die suddenly in car accidents, homicides, medical emergencies, and natural disasters every day. They weren't expecting it. Your premature death would be hard enough for your loved ones: you can make it slightly easier by occasionally reviewing whether your estate planning is up to date.
 
 Every adult, regardless of their assets, should create an "in case of death" document that others can access, name beneficiaries on all financial accounts, and sign a last will. There may never be a time at which these tasks announce themselves as urgent, which is why some people die before getting around to them. You should just start doing it. If there are people whose estate planning (or lack thereof) would affect you upon their death — such as your spouse, parents, or siblings — you may want to help them complete the tasks mentioned above and consider other actions.
-
+-->
 &nbsp;
 
 &nbsp;
